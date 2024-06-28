@@ -1,13 +1,13 @@
 {
   "vaultName": "Obsidian",
-  "lastExport": 1719542512368,
+  "lastExport": 1719586077166,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
-    "Obsidian/Personal/(General)/Cat Allergies Research (Reduction of Symptoms).md",
-    "Obsidian/Personal/(General)/Websites.md",
+    "Obsidian/Personal/• General •/Cat Allergies Research (Reduction of Symptoms).md",
+    "Obsidian/Personal/• General •/Websites.md",
     "Obsidian/Personal/Computer/Server Stuff.md",
     "Obsidian/Personal/Gamedev/3D/Foliage/Ultimate Foliage Modeling Guide (WIP).md",
     "Obsidian/Personal/Gamedev/3D/Blender Personal Tips & Tricks.md",
@@ -214,8 +214,8 @@
     "Obsidian/Personal/Programming/c#/HelloWorld/obj/Debug/net8.0/HelloWorld.genruntimeconfig.cache",
     "Obsidian/Personal/Programming/c#/HelloWorld/obj/Debug/net8.0/HelloWorld.GlobalUsings.g.cs",
     "Obsidian/Personal/Programming/c#/HelloWorld/obj/HelloWorld.csproj.nuget.dgspec.json",
-    "Obsidian/Personal/Programming/c#/HelloWorld/obj/HelloWorld.csproj.nuget.g.targets",
     "Obsidian/Personal/Programming/c#/HelloWorld/obj/HelloWorld.csproj.nuget.g.props",
+    "Obsidian/Personal/Programming/c#/HelloWorld/obj/HelloWorld.csproj.nuget.g.targets",
     "Obsidian/Personal/Programming/c#/HelloWorld/obj/project.assets.json",
     "Obsidian/Personal/Programming/c#/HelloWorld/obj/project.nuget.cache",
     "Obsidian/Personal/Programming/c#/HelloWorld/HelloWorld.csproj",
@@ -244,6 +244,17 @@
     "Obsidian/Personal/Programming/python/weight-converter-exercise.py",
     "Obsidian/Personal/Programming/python/while-loops.py",
     "Index.md",
+    "lib/media/trumpchart.png",
+    "lib/media/guide-flac.jpg",
+    "lib/media/guide-flac-classical.jpg",
+    "lib/media/guide-mp3-320-cbr.jpg",
+    "lib/media/guide-mp3-256-cbr.jpg",
+    "lib/media/guide-mp3-v0.jpg",
+    "lib/media/guide-mp3-192-cbr.jpg",
+    "lib/media/guide-mp3-v2.jpg",
+    "lib/media/guide-mp3-128-cbr.jpg",
+    "lib/media/guide-mp3-192-to-flac.jpg",
+    "lib/media/ratio.png",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -271,20 +282,7 @@
     "lib/scripts/graph-data.js",
     "lib/styles/obsidian.css",
     "lib/styles/global-variable-styles.css",
-    "lib/styles/main-styles.css",
-    "lib/media/trumpchart.png",
-    "lib/media/guide-flac.jpg",
-    "lib/media/guide-flac-classical.jpg",
-    "lib/media/guide-mp3-320-cbr.jpg",
-    "lib/media/guide-mp3-256-cbr.jpg",
-    "lib/media/guide-mp3-v0.jpg",
-    "lib/media/guide-mp3-192-cbr.jpg",
-    "lib/media/guide-mp3-v2.jpg",
-    "lib/media/guide-mp3-128-cbr.jpg",
-    "lib/media/guide-mp3-192-to-flac.jpg",
-    "lib/media/ratio.png",
-    "obsidian/personal/music/redacted-interview/attachments/logo-sm-15.png",
-    "obsidian/personal/music/redacted-interview/attachments/red-login.png"
+    "lib/styles/main-styles.css"
   ],
   "mainDependencies": [
     "lib/scripts/graph-wasm.wasm",
@@ -317,1052 +315,1052 @@
     "lib/styles/main-styles.css"
   ],
   "fileInfo": {
-    "Obsidian/Personal/(General)/Cat Allergies Research (Reduction of Symptoms).md": {
-      "modifiedTime": 1719542039164,
+    "Obsidian/Personal/• General •/Cat Allergies Research (Reduction of Symptoms).md": {
+      "modifiedTime": 1719586077166,
       "sourceSize": 2466,
-      "exportedPath": "obsidian/personal/(general)/cat-allergies-research-(reduction-of-symptoms).html",
+      "exportedPath": "obsidian/personal/•-general-•/cat-allergies-research-(reduction-of-symptoms).html",
       "dependencies": []
     },
-    "Obsidian/Personal/(General)/Websites.md": {
-      "modifiedTime": 1719542039164,
+    "Obsidian/Personal/• General •/Websites.md": {
+      "modifiedTime": 1719586077166,
       "sourceSize": 587,
-      "exportedPath": "obsidian/personal/(general)/websites.html",
+      "exportedPath": "obsidian/personal/•-general-•/websites.html",
       "dependencies": []
     },
     "Obsidian/Personal/Computer/Server Stuff.md": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 1799,
       "exportedPath": "obsidian/personal/computer/server-stuff.html",
       "dependencies": []
     },
     "Obsidian/Personal/Gamedev/3D/Foliage/Ultimate Foliage Modeling Guide (WIP).md": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 2071,
       "exportedPath": "obsidian/personal/gamedev/3d/foliage/ultimate-foliage-modeling-guide-(wip).html",
       "dependencies": []
     },
     "Obsidian/Personal/Gamedev/3D/Blender Personal Tips & Tricks.md": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 1075,
       "exportedPath": "obsidian/personal/gamedev/3d/blender-personal-tips-&-tricks.html",
       "dependencies": []
     },
     "Obsidian/Personal/Gamedev/3D/Good Free Assets Websites.md": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 158,
       "exportedPath": "obsidian/personal/gamedev/3d/good-free-assets-websites.html",
       "dependencies": []
     },
     "Obsidian/Personal/Gamedev/3D/TreeIt Review.md": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 229,
       "exportedPath": "obsidian/personal/gamedev/3d/treeit-review.html",
       "dependencies": []
     },
     "Obsidian/Personal/Gamedev/Valve Engines/Source/MOHAA to Source Engine porting..md": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 1640,
       "exportedPath": "obsidian/personal/gamedev/valve-engines/source/mohaa-to-source-engine-porting..html",
       "dependencies": []
     },
     "Obsidian/Personal/Gamedev/Valve Engines/Source/Porting Source 1 map to Source 2 (For CSGO to CS2).md": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 4663,
       "exportedPath": "obsidian/personal/gamedev/valve-engines/source/porting-source-1-map-to-source-2-(for-csgo-to-cs2).html",
       "dependencies": []
     },
     "Obsidian/Personal/Journal/2023-06-17.md": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 405,
       "exportedPath": "obsidian/personal/journal/2023-06-17.html",
       "dependencies": []
     },
     "Obsidian/Personal/Journal/To-do list.md": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 225,
       "exportedPath": "obsidian/personal/journal/to-do-list.html",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Free Folk - the music genre and its connections/Untitled Diagram.svg": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 453,
       "exportedPath": "obsidian/personal/music/free-folk-the-music-genre-and-its-connections/untitled-diagram.svg",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/da.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 461,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/da.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/da 1.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 461,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/da-1.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/da 2.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 461,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/da-2.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/da 3.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 461,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/da-3.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/da 4.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 461,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/da-4.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/da 5.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 461,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/da-5.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/da 6.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 461,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/da-6.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/da 7.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 461,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/da-7.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/da 8.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 461,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/da-8.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/da 9.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 461,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/da-9.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/da 10.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 461,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/da-10.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/da 11.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 461,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/da-11.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/da 12.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 461,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/da-12.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/da 13.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 461,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/da-13.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/da 14.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 461,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/da-14.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/da 15.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 461,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/da-15.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/de.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 181,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/de.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/de 1.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 181,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/de-1.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/de 2.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 181,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/de-2.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/de 3.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 181,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/de-3.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/de 4.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 181,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/de-4.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/de 5.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 181,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/de-5.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/de 6.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 181,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/de-6.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/de 7.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 181,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/de-7.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/de 8.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 181,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/de-8.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/de 9.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 181,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/de-9.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/de 10.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 181,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/de-10.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/de 11.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 181,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/de-11.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/de 12.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 181,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/de-12.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/de 13.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 181,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/de-13.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/de 14.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 181,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/de-14.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/de 15.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 181,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/de-15.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/es.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 203,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/es.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/es 1.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 203,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/es-1.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/es 2.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 203,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/es-2.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/es 3.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 203,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/es-3.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/es 4.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 203,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/es-4.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/es 5.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 203,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/es-5.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/es 6.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 203,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/es-6.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/es 7.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 203,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/es-7.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/es 8.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 203,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/es-8.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/es 9.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 203,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/es-9.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/es 10.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 203,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/es-10.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/es 11.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 203,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/es-11.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/es 12.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 203,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/es-12.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/es 13.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 203,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/es-13.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/es 14.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 203,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/es-14.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/es 15.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 203,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/es-15.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/fr.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 229,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/fr.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/fr 1.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 229,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/fr-1.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/fr 2.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 229,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/fr-2.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/fr 3.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 229,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/fr-3.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/fr 4.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 229,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/fr-4.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/fr 5.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 229,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/fr-5.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/fr 6.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 229,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/fr-6.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/fr 7.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 229,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/fr-7.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/fr 8.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 229,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/fr-8.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/fr 9.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 229,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/fr-9.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/fr 10.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 229,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/fr-10.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/fr 11.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 229,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/fr-11.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/fr 12.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 229,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/fr-12.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/fr 13.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 229,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/fr-13.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/fr 14.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 229,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/fr-14.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/fr 15.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 229,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/fr-15.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/gb.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 412,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/gb.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/gb 1.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 412,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/gb-1.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/gb 2.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 412,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/gb-2.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/gb 3.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 412,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/gb-3.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/gb 4.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 412,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/gb-4.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/gb 5.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 412,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/gb-5.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/gb 6.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 412,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/gb-6.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/gb 7.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 412,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/gb-7.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/gb 8.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 412,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/gb-8.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/gb 9.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 412,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/gb-9.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/gb 10.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 412,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/gb-10.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/gb 11.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 412,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/gb-11.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/gb 12.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 412,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/gb-12.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/gb 13.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 412,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/gb-13.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/gb 14.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 412,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/gb-14.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/gb 15.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 412,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/gb-15.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/Guide-FLAC.jpg": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 682165,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/guide-flac.jpg",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/Guide-FLAC-Classical.jpg": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 454474,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/guide-flac-classical.jpg",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/Guide-MP3-128-CBR.jpg": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 598976,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/guide-mp3-128-cbr.jpg",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/Guide-MP3-192-CBR.jpg": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 640790,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/guide-mp3-192-cbr.jpg",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/Guide-MP3-192-to-FLAC.jpg": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 657071,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/guide-mp3-192-to-flac.jpg",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/Guide-MP3-256-CBR.jpg": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 649801,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/guide-mp3-256-cbr.jpg",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/Guide-MP3-320-CBR.jpg": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 670876,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/guide-mp3-320-cbr.jpg",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/Guide-MP3-V0.jpg": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 647780,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/guide-mp3-v0.jpg",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/Guide-MP3-V2.jpg": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 634868,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/guide-mp3-v2.jpg",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/logo-sm.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 3761,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/logo-sm.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/logo-sm 1.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 3761,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/logo-sm-1.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/logo-sm 2.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 3761,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/logo-sm-2.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/logo-sm 3.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 3761,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/logo-sm-3.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/logo-sm 4.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 3761,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/logo-sm-4.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/logo-sm 5.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 3761,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/logo-sm-5.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/logo-sm 6.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 3761,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/logo-sm-6.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/logo-sm 7.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 3761,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/logo-sm-7.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/logo-sm 8.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 3761,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/logo-sm-8.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/logo-sm 9.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 3761,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/logo-sm-9.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/logo-sm 10.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 3761,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/logo-sm-10.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/logo-sm 11.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 3761,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/logo-sm-11.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/logo-sm 12.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 3761,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/logo-sm-12.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/logo-sm 13.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 3761,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/logo-sm-13.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/logo-sm 14.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 3761,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/logo-sm-14.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/logo-sm 15.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 3761,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/logo-sm-15.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/no.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 451,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/no.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/no 1.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 451,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/no-1.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/no 2.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 451,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/no-2.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/no 3.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 451,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/no-3.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/no 4.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 451,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/no-4.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/no 5.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 451,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/no-5.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/no 6.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 451,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/no-6.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/no 7.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 451,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/no-7.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/no 8.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 451,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/no-8.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/no 9.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 451,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/no-9.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/no 10.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 451,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/no-10.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/no 11.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 451,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/no-11.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/no 12.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 451,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/no-12.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/no 13.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 451,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/no-13.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/no 14.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 451,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/no-14.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/no 15.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 451,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/no-15.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/ratio.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 8097,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/ratio.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/red-login.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 17089,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/red-login.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/ru.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 169,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/ru.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/ru 1.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 169,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/ru-1.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/ru 2.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 169,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/ru-2.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/ru 3.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 169,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/ru-3.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/ru 4.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 169,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/ru-4.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/ru 5.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 169,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/ru-5.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/ru 6.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 169,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/ru-6.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/ru 7.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 169,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/ru-7.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/ru 8.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 169,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/ru-8.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/ru 9.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 169,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/ru-9.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/ru 10.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 169,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/ru-10.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/ru 11.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 169,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/ru-11.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/ru 12.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 169,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/ru-12.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/ru 13.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 169,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/ru-13.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/ru 14.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 169,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/ru-14.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/ru 15.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 169,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/ru-15.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/trumpchart.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 9673,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/trumpchart.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/zh.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 223,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/zh.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/zh 1.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 223,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/zh-1.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/zh 2.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 223,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/zh-2.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/zh 3.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 223,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/zh-3.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/zh 4.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 223,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/zh-4.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/zh 5.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 223,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/zh-5.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/zh 6.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 223,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/zh-6.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/zh 7.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 223,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/zh-7.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/zh 8.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 223,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/zh-8.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/zh 9.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 223,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/zh-9.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/zh 10.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 223,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/zh-10.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/zh 11.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 223,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/zh-11.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/zh 12.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 223,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/zh-12.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/zh 13.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 223,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/zh-13.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/zh 14.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 223,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/zh-14.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Attachments/zh 15.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 223,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/zh-15.png",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Extras/BitTorrent Client Whitelist.md": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 831,
       "exportedPath": "obsidian/personal/music/redacted-interview/extras/bittorrent-client-whitelist.html",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Extras/Sample Cue File.md": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 4996,
       "exportedPath": "obsidian/personal/music/redacted-interview/extras/sample-cue-file.html",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Extras/Sample Log File.md": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 8697,
       "exportedPath": "obsidian/personal/music/redacted-interview/extras/sample-log-file.html",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Knowledge/Analog and Digital Music Sources.md": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 2015,
       "exportedPath": "obsidian/personal/music/redacted-interview/knowledge/analog-and-digital-music-sources.html",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Knowledge/Audio Formats.md": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 4245,
       "exportedPath": "obsidian/personal/music/redacted-interview/knowledge/audio-formats.html",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Knowledge/CD Ripping and Burning.md": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 1392,
       "exportedPath": "obsidian/personal/music/redacted-interview/knowledge/cd-ripping-and-burning.html",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Knowledge/Golden Rules.md": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 14869,
       "exportedPath": "obsidian/personal/music/redacted-interview/knowledge/golden-rules.html",
       "dependencies": [
@@ -1371,13 +1369,13 @@
       ]
     },
     "Obsidian/Personal/Music/Redacted Interview/Knowledge/LAME.md": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 3016,
       "exportedPath": "obsidian/personal/music/redacted-interview/knowledge/lame.html",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Knowledge/Spectral Analysis.md": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 4664,
       "exportedPath": "obsidian/personal/music/redacted-interview/knowledge/spectral-analysis.html",
       "dependencies": [
@@ -1402,7 +1400,7 @@
       ]
     },
     "Obsidian/Personal/Music/Redacted Interview/Knowledge/Torrenting.md": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 7377,
       "exportedPath": "obsidian/personal/music/redacted-interview/knowledge/torrenting.html",
       "dependencies": [
@@ -1411,43 +1409,43 @@
       ]
     },
     "Obsidian/Personal/Music/Redacted Interview/Knowledge/Transcodes.md": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 1047,
       "exportedPath": "obsidian/personal/music/redacted-interview/knowledge/transcodes.html",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/The Interview Process/After the Interview.md": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 824,
       "exportedPath": "obsidian/personal/music/redacted-interview/the-interview-process/after-the-interview.html",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/The Interview Process/FAQ.md": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 5230,
       "exportedPath": "obsidian/personal/music/redacted-interview/the-interview-process/faq.html",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/The Interview Process/Preparing for the Interview.md": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 1184,
       "exportedPath": "obsidian/personal/music/redacted-interview/the-interview-process/preparing-for-the-interview.html",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/The Interview Process/Starting the Interview.md": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 3220,
       "exportedPath": "obsidian/personal/music/redacted-interview/the-interview-process/starting-the-interview.html",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Personal Notes.md": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 0,
       "exportedPath": "obsidian/personal/music/redacted-interview/personal-notes.html",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Redacted Interview/Welcome.md": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 1825,
       "exportedPath": "obsidian/personal/music/redacted-interview/welcome.html",
       "dependencies": [
@@ -1458,567 +1456,567 @@
       ]
     },
     "Obsidian/Personal/Music/Elephant 6 Full Collection Progress.md": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 44409,
       "exportedPath": "obsidian/personal/music/elephant-6-full-collection-progress.html",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Freak Pop.md": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 7144,
       "exportedPath": "obsidian/personal/music/freak-pop.html",
       "dependencies": []
     },
     "Obsidian/Personal/Music/New Weird Finland.md": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 867,
       "exportedPath": "obsidian/personal/music/new-weird-finland.html",
       "dependencies": []
     },
     "Obsidian/Personal/Music/Space Rock.md": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 491,
       "exportedPath": "obsidian/personal/music/space-rock.html",
       "dependencies": []
     },
     "Obsidian/Personal/Programming/c#/HelloWorld/bin/Debug/net8.0/HelloWorld.pdb": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 10540,
       "exportedPath": "obsidian/personal/programming/c#/helloworld/bin/debug/net8.0/helloworld.pdb",
       "dependencies": []
     },
     "Obsidian/Personal/Programming/c#/HelloWorld/bin/Debug/net8.0/HelloWorld.exe": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 140800,
       "exportedPath": "obsidian/personal/programming/c#/helloworld/bin/debug/net8.0/helloworld.exe",
       "dependencies": []
     },
     "Obsidian/Personal/Programming/c#/HelloWorld/bin/Debug/net8.0/HelloWorld.dll": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 4608,
       "exportedPath": "obsidian/personal/programming/c#/helloworld/bin/debug/net8.0/helloworld.dll",
       "dependencies": []
     },
     "Obsidian/Personal/Programming/c#/HelloWorld/bin/Debug/net8.0/HelloWorld.deps.json": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 422,
       "exportedPath": "obsidian/personal/programming/c#/helloworld/bin/debug/net8.0/helloworld.deps.json",
       "dependencies": []
     },
     "Obsidian/Personal/Programming/c#/HelloWorld/bin/Debug/net8.0/HelloWorld.runtimeconfig.json": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 268,
       "exportedPath": "obsidian/personal/programming/c#/helloworld/bin/debug/net8.0/helloworld.runtimeconfig.json",
       "dependencies": []
     },
     "Obsidian/Personal/Programming/c#/HelloWorld/obj/Debug/net8.0/ref/HelloWorld.dll": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 5120,
       "exportedPath": "obsidian/personal/programming/c#/helloworld/obj/debug/net8.0/ref/helloworld.dll",
       "dependencies": []
     },
     "Obsidian/Personal/Programming/c#/HelloWorld/obj/Debug/net8.0/refint/HelloWorld.dll": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 5120,
       "exportedPath": "obsidian/personal/programming/c#/helloworld/obj/debug/net8.0/refint/helloworld.dll",
       "dependencies": []
     },
     "Obsidian/Personal/Programming/c#/HelloWorld/obj/Debug/net8.0/apphost.exe": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 140800,
       "exportedPath": "obsidian/personal/programming/c#/helloworld/obj/debug/net8.0/apphost.exe",
       "dependencies": []
     },
     "Obsidian/Personal/Programming/c#/HelloWorld/obj/Debug/net8.0/HelloWorld.pdb": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 10540,
       "exportedPath": "obsidian/personal/programming/c#/helloworld/obj/debug/net8.0/helloworld.pdb",
       "dependencies": []
     },
     "Obsidian/Personal/Programming/c#/HelloWorld/obj/Debug/net8.0/HelloWorld.dll": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 4608,
       "exportedPath": "obsidian/personal/programming/c#/helloworld/obj/debug/net8.0/helloworld.dll",
       "dependencies": []
     },
     "Obsidian/Personal/Programming/c#/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfo.cs": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 963,
       "exportedPath": "obsidian/personal/programming/c#/helloworld/obj/debug/net8.0/helloworld.assemblyinfo.cs",
       "dependencies": []
     },
     "Obsidian/Personal/Programming/c#/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfoInputs.cache": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 66,
       "exportedPath": "obsidian/personal/programming/c#/helloworld/obj/debug/net8.0/helloworld.assemblyinfoinputs.cache",
       "dependencies": []
     },
     "Obsidian/Personal/Programming/c#/HelloWorld/obj/Debug/net8.0/HelloWorld.assets.cache": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 150,
       "exportedPath": "obsidian/personal/programming/c#/helloworld/obj/debug/net8.0/helloworld.assets.cache",
       "dependencies": []
     },
     "Obsidian/Personal/Programming/c#/HelloWorld/obj/Debug/net8.0/HelloWorld.csproj.CoreCompileInputs.cache": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 66,
       "exportedPath": "obsidian/personal/programming/c#/helloworld/obj/debug/net8.0/helloworld.csproj.corecompileinputs.cache",
       "dependencies": []
     },
     "Obsidian/Personal/Programming/c#/HelloWorld/obj/Debug/net8.0/HelloWorld.csproj.FileListAbsolute.txt": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 1269,
       "exportedPath": "obsidian/personal/programming/c#/helloworld/obj/debug/net8.0/helloworld.csproj.filelistabsolute.txt",
       "dependencies": []
     },
     "Obsidian/Personal/Programming/c#/HelloWorld/obj/Debug/net8.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 595,
       "exportedPath": "obsidian/personal/programming/c#/helloworld/obj/debug/net8.0/helloworld.generatedmsbuildeditorconfig.editorconfig",
       "dependencies": []
     },
     "Obsidian/Personal/Programming/c#/HelloWorld/obj/Debug/net8.0/HelloWorld.genruntimeconfig.cache": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 66,
       "exportedPath": "obsidian/personal/programming/c#/helloworld/obj/debug/net8.0/helloworld.genruntimeconfig.cache",
       "dependencies": []
     },
     "Obsidian/Personal/Programming/c#/HelloWorld/obj/Debug/net8.0/HelloWorld.GlobalUsings.g.cs": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 295,
       "exportedPath": "obsidian/personal/programming/c#/helloworld/obj/debug/net8.0/helloworld.globalusings.g.cs",
       "dependencies": []
     },
     "Obsidian/Personal/Programming/c#/HelloWorld/obj/HelloWorld.csproj.nuget.dgspec.json": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 1868,
       "exportedPath": "obsidian/personal/programming/c#/helloworld/obj/helloworld.csproj.nuget.dgspec.json",
       "dependencies": []
     },
-    "Obsidian/Personal/Programming/c#/HelloWorld/obj/HelloWorld.csproj.nuget.g.targets": {
-      "modifiedTime": 1719542039164,
-      "sourceSize": 150,
-      "exportedPath": "obsidian/personal/programming/c#/helloworld/obj/helloworld.csproj.nuget.g.targets",
-      "dependencies": []
-    },
     "Obsidian/Personal/Programming/c#/HelloWorld/obj/HelloWorld.csproj.nuget.g.props": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 1131,
       "exportedPath": "obsidian/personal/programming/c#/helloworld/obj/helloworld.csproj.nuget.g.props",
       "dependencies": []
     },
+    "Obsidian/Personal/Programming/c#/HelloWorld/obj/HelloWorld.csproj.nuget.g.targets": {
+      "modifiedTime": 1719586077166,
+      "sourceSize": 150,
+      "exportedPath": "obsidian/personal/programming/c#/helloworld/obj/helloworld.csproj.nuget.g.targets",
+      "dependencies": []
+    },
     "Obsidian/Personal/Programming/c#/HelloWorld/obj/project.assets.json": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 1769,
       "exportedPath": "obsidian/personal/programming/c#/helloworld/obj/project.assets.json",
       "dependencies": []
     },
     "Obsidian/Personal/Programming/c#/HelloWorld/obj/project.nuget.cache": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 291,
       "exportedPath": "obsidian/personal/programming/c#/helloworld/obj/project.nuget.cache",
       "dependencies": []
     },
     "Obsidian/Personal/Programming/c#/HelloWorld/HelloWorld.csproj": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 252,
       "exportedPath": "obsidian/personal/programming/c#/helloworld/helloworld.csproj",
       "dependencies": []
     },
     "Obsidian/Personal/Programming/c#/HelloWorld/Program.cs": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 105,
       "exportedPath": "obsidian/personal/programming/c#/helloworld/program.cs",
       "dependencies": []
     },
     "Obsidian/Personal/Programming/c++/hello-world.exe": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 276494,
       "exportedPath": "obsidian/personal/programming/c++/hello-world.exe",
       "dependencies": []
     },
     "Obsidian/Personal/Programming/c++/hello-world.cpp": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 298,
       "exportedPath": "obsidian/personal/programming/c++/hello-world.cpp",
       "dependencies": []
     },
     "Obsidian/Personal/Programming/java/Java.md": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 1071,
       "exportedPath": "obsidian/personal/programming/java/java.html",
       "dependencies": []
     },
     "Obsidian/Personal/Programming/python/arithmetics.py": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 369,
       "exportedPath": "obsidian/personal/programming/python/arithmetics.py",
       "dependencies": []
     },
     "Obsidian/Personal/Programming/python/comparison-operators.py": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 324,
       "exportedPath": "obsidian/personal/programming/python/comparison-operators.py",
       "dependencies": []
     },
     "Obsidian/Personal/Programming/python/for-loops.py": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 140,
       "exportedPath": "obsidian/personal/programming/python/for-loops.py",
       "dependencies": []
     },
     "Obsidian/Personal/Programming/python/hello-world.py": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 21,
       "exportedPath": "obsidian/personal/programming/python/hello-world.py",
       "dependencies": []
     },
     "Obsidian/Personal/Programming/python/if-statements.py": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 297,
       "exportedPath": "obsidian/personal/programming/python/if-statements.py",
       "dependencies": []
     },
     "Obsidian/Personal/Programming/python/inputs.py": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 59,
       "exportedPath": "obsidian/personal/programming/python/inputs.py",
       "dependencies": []
     },
     "Obsidian/Personal/Programming/python/list-methods.py": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 163,
       "exportedPath": "obsidian/personal/programming/python/list-methods.py",
       "dependencies": []
     },
     "Obsidian/Personal/Programming/python/lists.py": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 97,
       "exportedPath": "obsidian/personal/programming/python/lists.py",
       "dependencies": []
     },
     "Obsidian/Personal/Programming/python/logical-operators.py": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 229,
       "exportedPath": "obsidian/personal/programming/python/logical-operators.py",
       "dependencies": []
     },
     "Obsidian/Personal/Programming/python/operator-precedence.py": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 59,
       "exportedPath": "obsidian/personal/programming/python/operator-precedence.py",
       "dependencies": []
     },
     "Obsidian/Personal/Programming/python/range-function.py": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 89,
       "exportedPath": "obsidian/personal/programming/python/range-function.py",
       "dependencies": []
     },
     "Obsidian/Personal/Programming/python/strings.py": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 687,
       "exportedPath": "obsidian/personal/programming/python/strings.py",
       "dependencies": []
     },
     "Obsidian/Personal/Programming/python/tuples.py": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 97,
       "exportedPath": "obsidian/personal/programming/python/tuples.py",
       "dependencies": []
     },
     "Obsidian/Personal/Programming/python/type-conversion.py": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 158,
       "exportedPath": "obsidian/personal/programming/python/type-conversion.py",
       "dependencies": []
     },
     "Obsidian/Personal/Programming/python/type-conversion-answer.py": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 115,
       "exportedPath": "obsidian/personal/programming/python/type-conversion-answer.py",
       "dependencies": []
     },
     "Obsidian/Personal/Programming/python/type-conversion-exercise.py": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 108,
       "exportedPath": "obsidian/personal/programming/python/type-conversion-exercise.py",
       "dependencies": []
     },
     "Obsidian/Personal/Programming/python/variables.py": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 76,
       "exportedPath": "obsidian/personal/programming/python/variables.py",
       "dependencies": []
     },
     "Obsidian/Personal/Programming/python/variables-exercise.py": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 113,
       "exportedPath": "obsidian/personal/programming/python/variables-exercise.py",
       "dependencies": []
     },
     "Obsidian/Personal/Programming/python/weight-converter-exercise.py": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 308,
       "exportedPath": "obsidian/personal/programming/python/weight-converter-exercise.py",
       "dependencies": []
     },
     "Obsidian/Personal/Programming/python/while-loops.py": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 196,
       "exportedPath": "obsidian/personal/programming/python/while-loops.py",
       "dependencies": []
     },
+    "Index.md": {
+      "modifiedTime": 1719586077166,
+      "sourceSize": 34,
+      "exportedPath": "index.html",
+      "dependencies": []
+    },
     "lib/media/trumpchart.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 9673,
       "exportedPath": "lib/media/trumpchart.png",
       "dependencies": []
     },
     "lib/media/guide-flac.jpg": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 682165,
       "exportedPath": "lib/media/guide-flac.jpg",
       "dependencies": []
     },
     "lib/media/guide-flac-classical.jpg": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 454474,
       "exportedPath": "lib/media/guide-flac-classical.jpg",
       "dependencies": []
     },
     "lib/media/guide-mp3-320-cbr.jpg": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 670876,
       "exportedPath": "lib/media/guide-mp3-320-cbr.jpg",
       "dependencies": []
     },
     "lib/media/guide-mp3-256-cbr.jpg": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 649801,
       "exportedPath": "lib/media/guide-mp3-256-cbr.jpg",
       "dependencies": []
     },
     "lib/media/guide-mp3-v0.jpg": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 647780,
       "exportedPath": "lib/media/guide-mp3-v0.jpg",
       "dependencies": []
     },
     "lib/media/guide-mp3-192-cbr.jpg": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 640790,
       "exportedPath": "lib/media/guide-mp3-192-cbr.jpg",
       "dependencies": []
     },
     "lib/media/guide-mp3-v2.jpg": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 634868,
       "exportedPath": "lib/media/guide-mp3-v2.jpg",
       "dependencies": []
     },
     "lib/media/guide-mp3-128-cbr.jpg": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 598976,
       "exportedPath": "lib/media/guide-mp3-128-cbr.jpg",
       "dependencies": []
     },
     "lib/media/guide-mp3-192-to-flac.jpg": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 657071,
       "exportedPath": "lib/media/guide-mp3-192-to-flac.jpg",
       "dependencies": []
     },
     "lib/media/ratio.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 8097,
       "exportedPath": "lib/media/ratio.png",
       "dependencies": []
     },
     "obsidian/personal/music/redacted-interview/attachments/logo-sm-15.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 3761,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/logo-sm-15.png",
       "dependencies": []
     },
     "obsidian/personal/music/redacted-interview/attachments/red-login.png": {
-      "modifiedTime": 1719542039164,
+      "modifiedTime": 1719586077166,
       "sourceSize": 17089,
       "exportedPath": "obsidian/personal/music/redacted-interview/attachments/red-login.png",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1719542512368,
+      "modifiedTime": 1719586077166,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1719542512368,
+      "modifiedTime": 1719586077166,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1719542512368,
+      "modifiedTime": 1719586077166,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1719542512368,
+      "modifiedTime": 1719586077166,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1719542512368,
+      "modifiedTime": 1719586077166,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1719542512368,
+      "modifiedTime": 1719586077166,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1719542512368,
+      "modifiedTime": 1719586077166,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1719542512368,
+      "modifiedTime": 1719586077166,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1719542512368,
+      "modifiedTime": 1719586077166,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1719542512368,
+      "modifiedTime": 1719586077166,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1719542512368,
+      "modifiedTime": 1719586077166,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1719542512368,
+      "modifiedTime": 1719586077166,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1719542512368,
+      "modifiedTime": 1719586077166,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1719542512368,
+      "modifiedTime": 1719586077166,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1719542512368,
+      "modifiedTime": 1719586077166,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1719542512368,
-      "sourceSize": 113674,
+      "modifiedTime": 1719586077166,
+      "sourceSize": 234622,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1719542512368,
+      "modifiedTime": 1719586077166,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1719542512368,
+      "modifiedTime": 1719586077166,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1719542512368,
+      "modifiedTime": 1719586077166,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1719542512368,
+      "modifiedTime": 1719586077166,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1719542512368,
+      "modifiedTime": 1719586077166,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1719542512368,
+      "modifiedTime": 1719586077166,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1719542512368,
+      "modifiedTime": 1719586077166,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1719542512368,
+      "modifiedTime": 1719586077166,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1719542512368,
-      "sourceSize": 3699,
+      "modifiedTime": 1719586077166,
+      "sourceSize": 3703,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1719542512368,
+      "modifiedTime": 1719586077166,
       "sourceSize": 130208,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1719542512368,
+      "modifiedTime": 1719586077166,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1719542512368,
+      "modifiedTime": 1719586077166,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
-      "dependencies": []
-    },
-    "Index.md": {
-      "modifiedTime": 1719542512368,
-      "sourceSize": 34,
-      "exportedPath": "index.html",
       "dependencies": []
     }
   }
