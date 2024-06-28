@@ -1,6 +1,6 @@
 #!/bin/sh
 cd "Y:\Library\Documents\GitHub\avotien.github.io"
-git checkout devmain
+git checkout main
 git add .
 git commit -am "made changes"
 git push
