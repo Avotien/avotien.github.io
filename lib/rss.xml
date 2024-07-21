@@ -1,4 +1,43 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Obsidian]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://avotien.github.io/</link><image><url>https://avotien.github.io/lib/media/favicon.png</url><title>Obsidian</title><link>https://avotien.github.io/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 14 Jul 2024 02:41:31 GMT</lastBuildDate><atom:link href="https://avotien.github.io/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 14 Jul 2024 02:41:29 GMT</pubDate><copyright><![CDATA[Avotien]]></copyright><ttl>60</ttl><dc:creator>Avotien</dc:creator><item><title><![CDATA[Server Stuff]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Obsidian]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://avotien.github.io/</link><image><url>https://avotien.github.io/lib/media/favicon.png</url><title>Obsidian</title><link>https://avotien.github.io/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sat, 20 Jul 2024 23:59:21 GMT</lastBuildDate><atom:link href="https://avotien.github.io/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sat, 20 Jul 2024 23:59:20 GMT</pubDate><copyright><![CDATA[Avotien]]></copyright><ttl>60</ttl><dc:creator>Avotien</dc:creator><item><title><![CDATA[Blender Personal Tips & Tricks]]></title><description><![CDATA[ 
+ <br><br>Modify tools default settings:<br>
+e.g.<br>
+Edit-&gt;Preferences-&gt;Keymap-&gt;Search for "Shear"-&gt;Go to "Shear" in the Mesh section, then change the defaults.<br><br>
+<br>Extrude edge along the normal orientation of the face its attached to??<br>
+Install the Mesh Tools extension -&gt; offset edges -&gt; find extrude in options
+<br>Convert opacity map to a mesh? (Would be useful for realistic foliage)
+<br>Snap individual vertices to object/face all at once?
+<br>Edge-equidistant scaling in one go?
+<br>How to change increment snapping scale? (Change snapping from 100 cm increments to 1 cm)<br>
+Change the Grid Scale in the overlay menu. To get from 100 cm to 1 cm change the scale 0.01.
+<br><br><br>
+<br>Triplanar mapping on the UV texture coordinate setting?
+<br>Mix high poly to low poly baked normal map with a model using a tiling texture?
+<br>Bake high poly edge normals to low poly? (make them appear smooth)
+<br><br>
+<br><a data-tooltip-position="top" aria-label="https://www.youtube.com/watch?v=o-fT5MXs5ds" rel="noopener" class="external-link" href="https://www.youtube.com/watch?v=o-fT5MXs5ds" target="_blank">MatLayer</a> (Currently Broken on 4.2)
+<br><a data-tooltip-position="top" aria-label="https://github.com/leukbaars/DreamUV" rel="noopener" class="external-link" href="https://github.com/leukbaars/DreamUV" target="_blank">DreamUV</a>
+<br><a data-tooltip-position="top" aria-label="https://github.com/mrven/Blender-Texel-Density-Checker" rel="noopener" class="external-link" href="https://github.com/mrven/Blender-Texel-Density-Checker" target="_blank">Texel Density Checker</a>
+<br>
+]]></description><link>https://avotien.github.io/obsidian/personal/development/3d/blender-personal-tips-&amp;-tricks.html</link><guid isPermaLink="false">Obsidian/Personal/Development/3D/Blender Personal Tips &amp; Tricks.md</guid><dc:creator><![CDATA[Avotien]]></dc:creator><pubDate>Thu, 18 Jul 2024 13:01:24 GMT</pubDate></item><item><title><![CDATA[WIP]]></title><description><![CDATA[ 
+ <br><br>
+<br>Ile Cadieux on Arma Reforger - WOW THIS IS DONE!!!
+<br>MOHAA to CSGO to CS2 port
+<br>Residence Map
+
+<br>Structure and Props
+<br>Nature (Ground, Plants and Trees)
+
+
+<br>School Map
+<br><br>
+<br>Sell 3D Models on Sketchfab
+<br>Ile Perrot on ARMA 4
+<br>High Fantasy Wizard Half-Life Goldsrc Mod
+<br>Isometric-style camera in Minecraft mod.
+<br>Music genre identification Python with RYM genres.
+<br><br>
+<br>Manhattan in 3D game environment
+]]></description><link>https://avotien.github.io/obsidian/personal/journal/to-do-list-／-projects.html</link><guid isPermaLink="false">Obsidian/Personal/Journal/To-do list ／ Projects.md</guid><dc:creator><![CDATA[Avotien]]></dc:creator><pubDate>Sat, 20 Jul 2024 03:48:38 GMT</pubDate></item><item><title><![CDATA[Server Stuff]]></title><description><![CDATA[ 
  <br><br>from the main user folder, open a cmd.<br>
 and use this command:<br>
 ssh elitebook@192.168.0.198 -p 36676 -i yek_hss<br>explanations:<br>
@@ -32,7 +71,32 @@ Copy<br>
 <br>Run the docker build command to build the Docker image:
 <br>e.g. docker build -t my-samba-image . Replace my-samba-image with the desired name for your Docker image.
 <br>Once the image is built, you can run a container from the image using the docker run command: docker run -it -p 445:445 --name elitebook-samba -v /home/elitebook/cloud/public:/hmnt/public -d my-samba-image 
-]]></description><link>https://avotien.github.io/obsidian/personal/computer/server-stuff.html</link><guid isPermaLink="false">Obsidian/Personal/Computer/Server Stuff.md</guid><dc:creator><![CDATA[Avotien]]></dc:creator><pubDate>Thu, 11 Jul 2024 14:48:20 GMT</pubDate></item><item><title><![CDATA[One Model a Day Progression]]></title><description><![CDATA[ 
+]]></description><link>https://avotien.github.io/obsidian/personal/computer/server-stuff.html</link><guid isPermaLink="false">Obsidian/Personal/Computer/Server Stuff.md</guid><dc:creator><![CDATA[Avotien]]></dc:creator><pubDate>Thu, 11 Jul 2024 14:48:20 GMT</pubDate></item><item><title><![CDATA[General]]></title><description><![CDATA[ 
+ <br>The ultimate guide for making your OWN models of trees, plants, and other natural organic stuff! (mostly trees and plants)<br><br>
+<br><a rel="noopener" class="external-link" href="http://wiki.polycount.com/wiki/Foliage" target="_blank">http://wiki.polycount.com/wiki/Foliage</a><br>
+Contains links to articles and discussions, has some info about how foliage textures and its vertex normals work, links for some tools, and examples.
+<br><a data-tooltip-position="top" aria-label="https://www.youtube.com/watch?v=wavnKZNSYqU" rel="noopener" class="external-link" href="https://www.youtube.com/watch?v=wavnKZNSYqU" target="_blank">The Vegetation of Horizon Zero Dawn</a><br>
+Presentation talking about how the foliage works; the wind simulation, shading, texture packing, normals, etc. Uses SpeedTree for Modeling; 5 LODs. Doesn't really go into much details for the asset creation part.
+<br><br><br>
+<br><a data-tooltip-position="top" aria-label="https://www.inaturalist.org/observations?place_id=any&amp;subview=map&amp;view=species&amp;iconic_taxa=Plantae" rel="noopener" class="external-link" href="https://www.inaturalist.org/observations?place_id=any&amp;subview=map&amp;view=species&amp;iconic_taxa=Plantae" target="_blank">iNaturalist species list</a> has a ton of images of specific vegetation.
+<br><a data-tooltip-position="top" aria-label="https://identify.plantnet.org/k-world-flora/species" rel="noopener" class="external-link" href="https://identify.plantnet.org/k-world-flora/species" target="_blank">Pl@ntNet species list</a> does too.
+<br>Go outside and take pictures of the plants you want to recreate.
+<br><br>
+<br>Go outside and take pictures of the specific parts of the plants you want, ideally with a camera or with your phone on a blank background.
+<br><a data-tooltip-position="top" aria-label="https://www.inaturalist.org/taxa/47602-Taraxacum-officinale/browse_photos" rel="noopener" class="external-link" href="https://www.inaturalist.org/taxa/47602-Taraxacum-officinale/browse_photos" target="_blank">iNaturalist CC0 observations (example)</a> 
+<br>Trunk and Stem photogrammetry
+<br><br>
+<br>Removing the background (for leaves).
+<br>Isolating the bark/stem.
+<br>Conversion to PBR Material.
+<br><br><br><br>
+<br><a data-tooltip-position="top" aria-label="https://www.youtube.com/watch?v=gzXgveyZ-p4" rel="noopener" class="external-link" href="https://www.youtube.com/watch?v=gzXgveyZ-p4" target="_blank">Let's Learn Blender!: Two-Sided Leaf Material</a>
+<br><a data-tooltip-position="top" aria-label="https://www.youtube.com/watch?v=AhFe0hgmHio" rel="noopener" class="external-link" href="https://www.youtube.com/watch?v=AhFe0hgmHio" target="_blank">Making leaves translucent in BLENDER!</a>
+<br><br><br><br>
+<br><a data-tooltip-position="top" aria-label="https://www.youtube.com/watch?v=kz0cPG_x8L8" rel="noopener" class="external-link" href="https://www.youtube.com/watch?v=kz0cPG_x8L8" target="_blank">MSC #09 - How to create realistic looking plants (Blender Tutorial EN)</a> - Excellent, but could be tedious work.
+<br><br><br>
+<br><a data-tooltip-position="top" aria-label="https://www.youtube.com/watch?v=y7PdiGXbrD0" rel="noopener" class="external-link" href="https://www.youtube.com/watch?v=y7PdiGXbrD0" target="_blank">How to Create a Low Poly Tree in 1 Minute</a> - Too simple IMO
+<br><br><br>]]></description><link>https://avotien.github.io/obsidian/personal/development/3d/foliage/ultimate-foliage-modeling-guide-(wip).html</link><guid isPermaLink="false">Obsidian/Personal/Development/3D/Foliage/Ultimate Foliage Modeling Guide (WIP).md</guid><dc:creator><![CDATA[Avotien]]></dc:creator><pubDate>Sun, 02 Jun 2024 02:47:57 GMT</pubDate></item><item><title><![CDATA[One Model a Day Progression]]></title><description><![CDATA[ 
  <br>Last 3D model I made/uploaded was in 2021-11-20. Tomorrow is going to be July 1st 2024.<br>
 955 days. 955 models to make. Goal is for all object to be fully modeled, textured, and detailed baked. I'll also allow myself photogrammetry. Deadline: 10+1 new model, every day<br>
 Gotta catch up. <br><br>
@@ -991,15 +1055,117 @@ Gotta catch up. <br><br>
 <br>Model 953
 <br>Model 954
 <br>Model 955
-]]></description><link>https://avotien.github.io/obsidian/personal/gamedev/3d/projects/one-model-a-day/one-model-a-day-progression.html</link><guid isPermaLink="false">Obsidian/Personal/Gamedev/3D/Projects/One Model a Day/One Model a Day Progression.md</guid><dc:creator><![CDATA[Avotien]]></dc:creator><pubDate>Mon, 01 Jul 2024 00:06:01 GMT</pubDate></item><item><title><![CDATA[To-do list ／ Projects]]></title><description><![CDATA[ 
+]]></description><link>https://avotien.github.io/obsidian/personal/development/3d/projects/one-model-a-day/one-model-a-day-progression.html</link><guid isPermaLink="false">Obsidian/Personal/Development/3D/Projects/One Model a Day/One Model a Day Progression.md</guid><dc:creator><![CDATA[Avotien]]></dc:creator><pubDate>Mon, 01 Jul 2024 00:06:01 GMT</pubDate></item><item><title><![CDATA[Good Free Assets Websites]]></title><description><![CDATA[ 
+ <br><br>
+<br><a rel="noopener" class="external-link" href="https://ambientcg.com/" target="_blank">https://ambientcg.com/</a>
+<br><a rel="noopener" class="external-link" href="https://polyhaven.com/" target="_blank">https://polyhaven.com/</a>
+<br><a rel="noopener" class="external-link" href="https://www.cgbookcase.com/" target="_blank">https://www.cgbookcase.com/</a>
+<br><a rel="noopener" class="external-link" href="https://pbrpx.com/" target="_blank">https://pbrpx.com/</a>
+]]></description><link>https://avotien.github.io/obsidian/personal/development/3d/good-free-assets-websites.html</link><guid isPermaLink="false">Obsidian/Personal/Development/3D/Good Free Assets Websites.md</guid><dc:creator><![CDATA[Avotien]]></dc:creator><pubDate>Sun, 26 May 2024 13:52:20 GMT</pubDate></item><item><title><![CDATA[TreeIt Review]]></title><description><![CDATA[ 
  <br>
-<br>Ile Cadieux on Arma Reforger - WOW THIS IS DONE!!!
-<br>MOHAA to CSGO to CS2 port
-<br>Residence Map
-<br>School Map
-<br>Isometric-style camera in Minecraft mod.
-<br>Music genre identification Python with RYM genres.
-]]></description><link>https://avotien.github.io/obsidian/personal/journal/to-do-list-／-projects.html</link><guid isPermaLink="false">Obsidian/Personal/Journal/To-do list ／ Projects.md</guid><dc:creator><![CDATA[Avotien]]></dc:creator><pubDate>Thu, 20 Jun 2024 15:45:33 GMT</pubDate></item><item><title><![CDATA[MAIN ARTISTS]]></title><description><![CDATA[ 
+<br>You can't split a trunk more than once? When almost every tree in the real life can.<br>
+The way the trunk just ends and doesn't allow for branches at the exact tip of the trunk doesn't look nice.
+<br>Random crashes once in a while
+]]></description><link>https://avotien.github.io/obsidian/personal/development/3d/treeit-review.html</link><guid isPermaLink="false">Obsidian/Personal/Development/3D/TreeIt Review.md</guid><dc:creator><![CDATA[Avotien]]></dc:creator><pubDate>Fri, 24 May 2024 22:57:45 GMT</pubDate></item><item><title><![CDATA[MOHAA to Source Engine porting.]]></title><description><![CDATA[ 
+ <br>I used multiple programs for this, here's a mostly simple explanation of what I did. <br>
+<br>For porting the simple world geometry, I used QuArk to open the .map file and then made it useable in hammer. I also manually ported the textures used in the map to a format useable by the source engine. Textures had to be replaced manually. 
+<br>For the more complex geometry (pipes, ladders, barrels, terrain) I used a tool found here: <a data-tooltip-position="top" aria-label="https://www.youtube.com/redirect?event=comments&amp;redir_token=QUFFLUhqbUlWeEU4ZUNvRkRZMDF2eUxZYkhUUnladS1UZ3xBQ3Jtc0tsTzJXdjFiQ3FxcVo3RjhaOEtSWFlRWV9rX001cl9VRG0xQThZVlRzbktIZzRuemthU05uOTBpMXkwekVweWRXcXM5YlBDLU93QnhfTUxqbWE5dWJsd3JZbHNJdlgtYlJ2MFlrcXdNVlg5blhfZUlmOA&amp;q=https%3A%2F%2Fwww.x-null.net%2Fforums%2Fthreads%2F3542-3d-model-of-Stalingrad-map%2Fpage2&amp;stzid=UgwPzdI6U4r8aM28hsJ4AaABAg.9JONhJeN2M79JOUG8qdFY8" rel="noopener" class="external-link" href="https://www.youtube.com/redirect?event=comments&amp;redir_token=QUFFLUhqbUlWeEU4ZUNvRkRZMDF2eUxZYkhUUnladS1UZ3xBQ3Jtc0tsTzJXdjFiQ3FxcVo3RjhaOEtSWFlRWV9rX001cl9VRG0xQThZVlRzbktIZzRuemthU05uOTBpMXkwekVweWRXcXM5YlBDLU93QnhfTUxqbWE5dWJsd3JZbHNJdlgtYlJ2MFlrcXdNVlg5blhfZUlmOA&amp;q=https%3A%2F%2Fwww.x-null.net%2Fforums%2Fthreads%2F3542-3d-model-of-Stalingrad-map%2Fpage2&amp;stzid=UgwPzdI6U4r8aM28hsJ4AaABAg.9JONhJeN2M79JOUG8qdFY8" target="_blank">https://www.x-null.net/forums/threads/3542-3d-model-of-Stalingrad-map/page2</a> to extract it as fbx from the original bsp map file, I then imported it into Blender and I used the SourceOps plugin to export all complex geometry as models to be useable by the source engine, except the terrain, for that I used the displacement exporter included with SourceOps. 
+<br>For the models (trees, cars, etc.) I used LightRay3D to export the MOHAA models from the original .skd format to .obj and exported them as useable models with Blender and SourceOps. 
+<br>I imported a reference for where all the models should be placed, but they were all manually placed by hands. Lighting also had to be done by hand. 
+<br>I also had to scale down the original map by 0.78 since the player scales between games are different.
+]]></description><link>https://avotien.github.io/obsidian/personal/development/valve-engines/source/mohaa-to-source-engine-porting..html</link><guid isPermaLink="false">Obsidian/Personal/Development/Valve Engines/Source/MOHAA to Source Engine porting..md</guid><dc:creator><![CDATA[Avotien]]></dc:creator><pubDate>Wed, 29 Nov 2023 20:43:38 GMT</pubDate></item><item><title><![CDATA[Porting Source 1 map to Source 2 (For CSGO to CS2)]]></title><description><![CDATA[ 
+ <br><br>
+<br>Set-up folders (csgo filepath w/ precompiled content &amp; gameinfo file; path to the source files (.vmf &amp; assets)(folder path cannot contain spaces); CS2 gameinfo file)
+<br>Install Python
+<br>Set-up PATH environment variable
+<br>Install colorama (pip install colorama)
+<br>Create new addon with the desired name with the workshop tools
+<br>Locate import script
+<br>Modify import script
+<br>Run import script GUI
+<br><br>The script will give out 3 different .vmap (map.vmap; map_prefab.vmap; map_environment_prefab.vmap (This last one will only be there if you use -usebsp))<br>
+You can combine them all by collapsing the prefabs.<br>
+Replace any surface specific clip textures with the simple clip material<br>
+If you have any custom sprites they have to be manually imported; create a .vtex file in the content folder:<br>&lt;!-- dmx encoding keyvalues2_noids 1 format vtex 1 --&gt;
+"CDmeVtex"
+{
+	"m_inputTextureArray" "element_array" 
+	[
+		"CDmeInputTexture"
+		{
+			"m_name" "string" "InputTexture0"
+			"m_fileName" "string" "materials/EXAMPLE_SPRITE.tga"
+			"m_colorSpace" "string" "srgb"
+			"m_typeString" "string" "2D"
+			"m_imageProcessorArray" "element_array" 
+			[
+				"CDmeImageProcessor"
+				{
+					"m_algorithm" "string" "None"
+					"m_stringArg" "string" ""
+					"m_vFloat4Arg" "vector4" "0 0 0 0"
+				}
+			]
+		}
+	]
+	"m_outputTypeString" "string" "2D"
+	"m_outputFormat" "string" "DXT1"
+	"m_outputClearColor" "vector4" "0 0 0 0"
+	"m_nOutputMinDimension" "int" "0"
+	"m_nOutputMaxDimension" "int" "0"
+	"m_textureOutputChannelArray" "element_array" 
+	[
+		"CDmeTextureOutputChannel"
+		{
+			"m_inputTextureArray" "string_array" [ "InputTexture0" ]
+			"m_srcChannels" "string" "rgba"
+			"m_dstChannels" "string" "rgba"
+			"m_mipAlgorithm" "CDmeImageProcessor"
+			{
+				"m_algorithm" "string" "Box"
+				"m_stringArg" "string" ""
+				"m_vFloat4Arg" "vector4" "0 0 0 0"
+			}
+			"m_outputColorSpace" "string" "srgb"
+		}
+	]
+	"m_vClamp" "vector3" "0 0 0"
+	"m_bNoLod" "bool" "0"
+}
+Copy<br><br>Check if you have any light_omni2 with crazy high brightness &amp; range values and manually fix them. You can use indirect light scale to make a light similar to constant light in source.<br>
+The S2 importer will approximate the light probes &amp; cube maps combined entities; you're better off remaking them manually; or if you don't add them, then the lighting will look very bad on non-lightmapped objects. Be sure to make light probe entities touch each other, and to increase resolution size if some lighting looks bad. (If you want bad/retro-looking lighting, uncheck stationary light shadows on the light_environment<br><br>Just go to Navigation -&gt;place a Create Walkable Seed anywhere in the playing area -&gt;Nav Preview<br>
+You can tweak the navigation mesh by placing nav-clip brushes<br><br>Sounds will not be ported with the script. You will need to import them to a folder of your choosing, then edit the soundevents_addon.vsndevts file by adding the sound file with the desired settings. Add a point_soundevent with the desired soundscape sound and check play to local player and start on spawn.<br>
+Or just modify the soundscape, and replace all proxys to be normal soundscapes for them to work.<br><br>Add a cs_minimap_boundary at the lowest-south-west corner of the map and the highest-north-east corner of it. You can add multiple to generate multiple layers. You can change the resolution of the generated minimap with cs_minimap_output_size "square-resolution"<br>
+Create a new material using the material editor with the same name as the radar file, as a composite generic, then add the generated image(s) to the material.<br>
+Then edit the map .vtex file name:<br>
+mapname_radar to mapname_radar_tga<br>
+copy the same file and rename it to mapname_radar_spectate_tga<br>If you have a multi layered minimap, you need to edit the mapname.txt in the game addons/resource/overview folder<br>"mapname"
+{
+	"autogenerated_tga"		"1"
+	"pos_x"		"-1504"
+	"pos_y"		"3560"
+	"scale"		"4.343750"
+	
+	"verticalsections"
+	{
+		"default" // use the primary radar image - highest point
+		{
+			"AltitudeMax" "10000"
+			"AltitudeMin" "-80"
+		}
+		"1" // mapname_1_radar - middlest point
+		{
+			"AltitudeMax" "-80"
+			"AltitudeMin" "-416"
+		}
+		"0" // mapname_0_radar - lowest point
+		{
+			"AltitudeMax" "-416"
+			"AltitudeMin" "-10000"
+		}
+	}
+}
+Copy<br><br>Don't forget to add team_select and related!<br><br>Normally you should compile with full compile, but if you want more classic (source 1) looking lighting you can reduce the lightmap resolution.]]></description><link>https://avotien.github.io/obsidian/personal/development/valve-engines/source/porting-source-1-map-to-source-2-(for-csgo-to-cs2).html</link><guid isPermaLink="false">Obsidian/Personal/Development/Valve Engines/Source/Porting Source 1 map to Source 2 (For CSGO to CS2).md</guid><dc:creator><![CDATA[Avotien]]></dc:creator><pubDate>Wed, 17 Jul 2024 03:58:19 GMT</pubDate></item><item><title><![CDATA[MAIN ARTISTS]]></title><description><![CDATA[ 
  <br><br>Listed on the Elephant 6 website:<br><br>
 <br><a data-tooltip-position="top" aria-label="https://rateyourmusic.com/release/album/w-cullen-hart-presents-the-always-red-society/the-always-red-society/" rel="noopener" class="external-link" href="https://rateyourmusic.com/release/album/w-cullen-hart-presents-the-always-red-society/the-always-red-society/" target="_blank">The Always Red Society</a> - 1991<br>
 W. Cullen Hart presents The Always Red Society
@@ -1578,7 +1744,966 @@ W. Cullen Hart presents The Always Red Society
 <br><a data-tooltip-position="top" aria-label="https://bandcamp.com/discover/freak-pop" rel="noopener" class="external-link" href="https://bandcamp.com/discover/freak-pop" target="_blank">Bandcamp "freak pop" tag</a>
 <br><a data-tooltip-position="top" aria-label="https://www.caelumaudio.com/CaelumAudio/?Page=FreakPop" rel="noopener" class="external-link" href="https://www.caelumaudio.com/CaelumAudio/?Page=FreakPop" target="_blank">Random mainstream pop artists songs</a>
 <br><a data-tooltip-position="top" aria-label="https://music.apple.com/gb/album/freak-pop/1457247939" rel="noopener" class="external-link" href="https://music.apple.com/gb/album/freak-pop/1457247939" target="_blank">Random electronic pop music</a>
-]]></description><link>https://avotien.github.io/obsidian/personal/music/freak-pop.html</link><guid isPermaLink="false">Obsidian/Personal/Music/Freak Pop.md</guid><dc:creator><![CDATA[Avotien]]></dc:creator><pubDate>Fri, 28 Jun 2024 15:50:25 GMT</pubDate></item><item><title><![CDATA[Cat Allergies Research (Reduction of Symptoms)]]></title><description><![CDATA[ 
+]]></description><link>https://avotien.github.io/obsidian/personal/music/freak-pop.html</link><guid isPermaLink="false">Obsidian/Personal/Music/Freak Pop.md</guid><dc:creator><![CDATA[Avotien]]></dc:creator><pubDate>Fri, 28 Jun 2024 15:50:25 GMT</pubDate></item><item><title><![CDATA[One Model a Day Progression]]></title><description><![CDATA[ 
+ <br>Last 3D model I made/uploaded was in 2021-11-20. Tomorrow is going to be July 1st 2024.<br>
+955 days. 955 models to make. Goal is for all object to be fully modeled, textured, and detailed baked. I'll also allow myself photogrammetry. Deadline: 10+1 new model, every day<br>
+Gotta catch up. <br><br>
+<br>Model 1
+<br>Model 2
+<br>Model 3
+<br>Model 4
+<br>Model 5
+<br>Model 6
+<br>Model 7
+<br>Model 8
+<br>Model 9
+<br>Model 10
+<br>Model 11
+<br>Model 12
+<br>Model 13
+<br>Model 14
+<br>Model 15
+<br>Model 16
+<br>Model 17
+<br>Model 18
+<br>Model 19
+<br>Model 20
+<br>Model 21
+<br>Model 22
+<br>Model 23
+<br>Model 24
+<br>Model 25
+<br>Model 26
+<br>Model 27
+<br>Model 28
+<br>Model 29
+<br>Model 30
+<br>Model 31
+<br>Model 32
+<br>Model 33
+<br>Model 34
+<br>Model 35
+<br>Model 36
+<br>Model 37
+<br>Model 38
+<br>Model 39
+<br>Model 40
+<br>Model 41
+<br>Model 42
+<br>Model 43
+<br>Model 44
+<br>Model 45
+<br>Model 46
+<br>Model 47
+<br>Model 48
+<br>Model 49
+<br>Model 50
+<br>Model 51
+<br>Model 52
+<br>Model 53
+<br>Model 54
+<br>Model 55
+<br>Model 56
+<br>Model 57
+<br>Model 58
+<br>Model 59
+<br>Model 60
+<br>Model 61
+<br>Model 62
+<br>Model 63
+<br>Model 64
+<br>Model 65
+<br>Model 66
+<br>Model 67
+<br>Model 68
+<br>Model 69
+<br>Model 70
+<br>Model 71
+<br>Model 72
+<br>Model 73
+<br>Model 74
+<br>Model 75
+<br>Model 76
+<br>Model 77
+<br>Model 78
+<br>Model 79
+<br>Model 80
+<br>Model 81
+<br>Model 82
+<br>Model 83
+<br>Model 84
+<br>Model 85
+<br>Model 86
+<br>Model 87
+<br>Model 88
+<br>Model 89
+<br>Model 90
+<br>Model 91
+<br>Model 92
+<br>Model 93
+<br>Model 94
+<br>Model 95
+<br>Model 96
+<br>Model 97
+<br>Model 98
+<br>Model 99
+<br>Model 100
+<br>Model 101
+<br>Model 102
+<br>Model 103
+<br>Model 104
+<br>Model 105
+<br>Model 106
+<br>Model 107
+<br>Model 108
+<br>Model 109
+<br>Model 110
+<br>Model 111
+<br>Model 112
+<br>Model 113
+<br>Model 114
+<br>Model 115
+<br>Model 116
+<br>Model 117
+<br>Model 118
+<br>Model 119
+<br>Model 120
+<br>Model 121
+<br>Model 122
+<br>Model 123
+<br>Model 124
+<br>Model 125
+<br>Model 126
+<br>Model 127
+<br>Model 128
+<br>Model 129
+<br>Model 130
+<br>Model 131
+<br>Model 132
+<br>Model 133
+<br>Model 134
+<br>Model 135
+<br>Model 136
+<br>Model 137
+<br>Model 138
+<br>Model 139
+<br>Model 140
+<br>Model 141
+<br>Model 142
+<br>Model 143
+<br>Model 144
+<br>Model 145
+<br>Model 146
+<br>Model 147
+<br>Model 148
+<br>Model 149
+<br>Model 150
+<br>Model 151
+<br>Model 152
+<br>Model 153
+<br>Model 154
+<br>Model 155
+<br>Model 156
+<br>Model 157
+<br>Model 158
+<br>Model 159
+<br>Model 160
+<br>Model 161
+<br>Model 162
+<br>Model 163
+<br>Model 164
+<br>Model 165
+<br>Model 166
+<br>Model 167
+<br>Model 168
+<br>Model 169
+<br>Model 170
+<br>Model 171
+<br>Model 172
+<br>Model 173
+<br>Model 174
+<br>Model 175
+<br>Model 176
+<br>Model 177
+<br>Model 178
+<br>Model 179
+<br>Model 180
+<br>Model 181
+<br>Model 182
+<br>Model 183
+<br>Model 184
+<br>Model 185
+<br>Model 186
+<br>Model 187
+<br>Model 188
+<br>Model 189
+<br>Model 190
+<br>Model 191
+<br>Model 192
+<br>Model 193
+<br>Model 194
+<br>Model 195
+<br>Model 196
+<br>Model 197
+<br>Model 198
+<br>Model 199
+<br>Model 200
+<br>Model 201
+<br>Model 202
+<br>Model 203
+<br>Model 204
+<br>Model 205
+<br>Model 206
+<br>Model 207
+<br>Model 208
+<br>Model 209
+<br>Model 210
+<br>Model 211
+<br>Model 212
+<br>Model 213
+<br>Model 214
+<br>Model 215
+<br>Model 216
+<br>Model 217
+<br>Model 218
+<br>Model 219
+<br>Model 220
+<br>Model 221
+<br>Model 222
+<br>Model 223
+<br>Model 224
+<br>Model 225
+<br>Model 226
+<br>Model 227
+<br>Model 228
+<br>Model 229
+<br>Model 230
+<br>Model 231
+<br>Model 232
+<br>Model 233
+<br>Model 234
+<br>Model 235
+<br>Model 236
+<br>Model 237
+<br>Model 238
+<br>Model 239
+<br>Model 240
+<br>Model 241
+<br>Model 242
+<br>Model 243
+<br>Model 244
+<br>Model 245
+<br>Model 246
+<br>Model 247
+<br>Model 248
+<br>Model 249
+<br>Model 250
+<br>Model 251
+<br>Model 252
+<br>Model 253
+<br>Model 254
+<br>Model 255
+<br>Model 256
+<br>Model 257
+<br>Model 258
+<br>Model 259
+<br>Model 260
+<br>Model 261
+<br>Model 262
+<br>Model 263
+<br>Model 264
+<br>Model 265
+<br>Model 266
+<br>Model 267
+<br>Model 268
+<br>Model 269
+<br>Model 270
+<br>Model 271
+<br>Model 272
+<br>Model 273
+<br>Model 274
+<br>Model 275
+<br>Model 276
+<br>Model 277
+<br>Model 278
+<br>Model 279
+<br>Model 280
+<br>Model 281
+<br>Model 282
+<br>Model 283
+<br>Model 284
+<br>Model 285
+<br>Model 286
+<br>Model 287
+<br>Model 288
+<br>Model 289
+<br>Model 290
+<br>Model 291
+<br>Model 292
+<br>Model 293
+<br>Model 294
+<br>Model 295
+<br>Model 296
+<br>Model 297
+<br>Model 298
+<br>Model 299
+<br>Model 300
+<br>Model 301
+<br>Model 302
+<br>Model 303
+<br>Model 304
+<br>Model 305
+<br>Model 306
+<br>Model 307
+<br>Model 308
+<br>Model 309
+<br>Model 310
+<br>Model 311
+<br>Model 312
+<br>Model 313
+<br>Model 314
+<br>Model 315
+<br>Model 316
+<br>Model 317
+<br>Model 318
+<br>Model 319
+<br>Model 320
+<br>Model 321
+<br>Model 322
+<br>Model 323
+<br>Model 324
+<br>Model 325
+<br>Model 326
+<br>Model 327
+<br>Model 328
+<br>Model 329
+<br>Model 330
+<br>Model 331
+<br>Model 332
+<br>Model 333
+<br>Model 334
+<br>Model 335
+<br>Model 336
+<br>Model 337
+<br>Model 338
+<br>Model 339
+<br>Model 340
+<br>Model 341
+<br>Model 342
+<br>Model 343
+<br>Model 344
+<br>Model 345
+<br>Model 346
+<br>Model 347
+<br>Model 348
+<br>Model 349
+<br>Model 350
+<br>Model 351
+<br>Model 352
+<br>Model 353
+<br>Model 354
+<br>Model 355
+<br>Model 356
+<br>Model 357
+<br>Model 358
+<br>Model 359
+<br>Model 360
+<br>Model 361
+<br>Model 362
+<br>Model 363
+<br>Model 364
+<br>Model 365
+<br>Model 366
+<br>Model 367
+<br>Model 368
+<br>Model 369
+<br>Model 370
+<br>Model 371
+<br>Model 372
+<br>Model 373
+<br>Model 374
+<br>Model 375
+<br>Model 376
+<br>Model 377
+<br>Model 378
+<br>Model 379
+<br>Model 380
+<br>Model 381
+<br>Model 382
+<br>Model 383
+<br>Model 384
+<br>Model 385
+<br>Model 386
+<br>Model 387
+<br>Model 388
+<br>Model 389
+<br>Model 390
+<br>Model 391
+<br>Model 392
+<br>Model 393
+<br>Model 394
+<br>Model 395
+<br>Model 396
+<br>Model 397
+<br>Model 398
+<br>Model 399
+<br>Model 400
+<br>Model 401
+<br>Model 402
+<br>Model 403
+<br>Model 404
+<br>Model 405
+<br>Model 406
+<br>Model 407
+<br>Model 408
+<br>Model 409
+<br>Model 410
+<br>Model 411
+<br>Model 412
+<br>Model 413
+<br>Model 414
+<br>Model 415
+<br>Model 416
+<br>Model 417
+<br>Model 418
+<br>Model 419
+<br>Model 420
+<br>Model 421
+<br>Model 422
+<br>Model 423
+<br>Model 424
+<br>Model 425
+<br>Model 426
+<br>Model 427
+<br>Model 428
+<br>Model 429
+<br>Model 430
+<br>Model 431
+<br>Model 432
+<br>Model 433
+<br>Model 434
+<br>Model 435
+<br>Model 436
+<br>Model 437
+<br>Model 438
+<br>Model 439
+<br>Model 440
+<br>Model 441
+<br>Model 442
+<br>Model 443
+<br>Model 444
+<br>Model 445
+<br>Model 446
+<br>Model 447
+<br>Model 448
+<br>Model 449
+<br>Model 450
+<br>Model 451
+<br>Model 452
+<br>Model 453
+<br>Model 454
+<br>Model 455
+<br>Model 456
+<br>Model 457
+<br>Model 458
+<br>Model 459
+<br>Model 460
+<br>Model 461
+<br>Model 462
+<br>Model 463
+<br>Model 464
+<br>Model 465
+<br>Model 466
+<br>Model 467
+<br>Model 468
+<br>Model 469
+<br>Model 470
+<br>Model 471
+<br>Model 472
+<br>Model 473
+<br>Model 474
+<br>Model 475
+<br>Model 476
+<br>Model 477
+<br>Model 478
+<br>Model 479
+<br>Model 480
+<br>Model 481
+<br>Model 482
+<br>Model 483
+<br>Model 484
+<br>Model 485
+<br>Model 486
+<br>Model 487
+<br>Model 488
+<br>Model 489
+<br>Model 490
+<br>Model 491
+<br>Model 492
+<br>Model 493
+<br>Model 494
+<br>Model 495
+<br>Model 496
+<br>Model 497
+<br>Model 498
+<br>Model 499
+<br>Model 500
+<br>Model 501
+<br>Model 502
+<br>Model 503
+<br>Model 504
+<br>Model 505
+<br>Model 506
+<br>Model 507
+<br>Model 508
+<br>Model 509
+<br>Model 510
+<br>Model 511
+<br>Model 512
+<br>Model 513
+<br>Model 514
+<br>Model 515
+<br>Model 516
+<br>Model 517
+<br>Model 518
+<br>Model 519
+<br>Model 520
+<br>Model 521
+<br>Model 522
+<br>Model 523
+<br>Model 524
+<br>Model 525
+<br>Model 526
+<br>Model 527
+<br>Model 528
+<br>Model 529
+<br>Model 530
+<br>Model 531
+<br>Model 532
+<br>Model 533
+<br>Model 534
+<br>Model 535
+<br>Model 536
+<br>Model 537
+<br>Model 538
+<br>Model 539
+<br>Model 540
+<br>Model 541
+<br>Model 542
+<br>Model 543
+<br>Model 544
+<br>Model 545
+<br>Model 546
+<br>Model 547
+<br>Model 548
+<br>Model 549
+<br>Model 550
+<br>Model 551
+<br>Model 552
+<br>Model 553
+<br>Model 554
+<br>Model 555
+<br>Model 556
+<br>Model 557
+<br>Model 558
+<br>Model 559
+<br>Model 560
+<br>Model 561
+<br>Model 562
+<br>Model 563
+<br>Model 564
+<br>Model 565
+<br>Model 566
+<br>Model 567
+<br>Model 568
+<br>Model 569
+<br>Model 570
+<br>Model 571
+<br>Model 572
+<br>Model 573
+<br>Model 574
+<br>Model 575
+<br>Model 576
+<br>Model 577
+<br>Model 578
+<br>Model 579
+<br>Model 580
+<br>Model 581
+<br>Model 582
+<br>Model 583
+<br>Model 584
+<br>Model 585
+<br>Model 586
+<br>Model 587
+<br>Model 588
+<br>Model 589
+<br>Model 590
+<br>Model 591
+<br>Model 592
+<br>Model 593
+<br>Model 594
+<br>Model 595
+<br>Model 596
+<br>Model 597
+<br>Model 598
+<br>Model 599
+<br>Model 600
+<br>Model 601
+<br>Model 602
+<br>Model 603
+<br>Model 604
+<br>Model 605
+<br>Model 606
+<br>Model 607
+<br>Model 608
+<br>Model 609
+<br>Model 610
+<br>Model 611
+<br>Model 612
+<br>Model 613
+<br>Model 614
+<br>Model 615
+<br>Model 616
+<br>Model 617
+<br>Model 618
+<br>Model 619
+<br>Model 620
+<br>Model 621
+<br>Model 622
+<br>Model 623
+<br>Model 624
+<br>Model 625
+<br>Model 626
+<br>Model 627
+<br>Model 628
+<br>Model 629
+<br>Model 630
+<br>Model 631
+<br>Model 632
+<br>Model 633
+<br>Model 634
+<br>Model 635
+<br>Model 636
+<br>Model 637
+<br>Model 638
+<br>Model 639
+<br>Model 640
+<br>Model 641
+<br>Model 642
+<br>Model 643
+<br>Model 644
+<br>Model 645
+<br>Model 646
+<br>Model 647
+<br>Model 648
+<br>Model 649
+<br>Model 650
+<br>Model 651
+<br>Model 652
+<br>Model 653
+<br>Model 654
+<br>Model 655
+<br>Model 656
+<br>Model 657
+<br>Model 658
+<br>Model 659
+<br>Model 660
+<br>Model 661
+<br>Model 662
+<br>Model 663
+<br>Model 664
+<br>Model 665
+<br>Model 666
+<br>Model 667
+<br>Model 668
+<br>Model 669
+<br>Model 670
+<br>Model 671
+<br>Model 672
+<br>Model 673
+<br>Model 674
+<br>Model 675
+<br>Model 676
+<br>Model 677
+<br>Model 678
+<br>Model 679
+<br>Model 680
+<br>Model 681
+<br>Model 682
+<br>Model 683
+<br>Model 684
+<br>Model 685
+<br>Model 686
+<br>Model 687
+<br>Model 688
+<br>Model 689
+<br>Model 690
+<br>Model 691
+<br>Model 692
+<br>Model 693
+<br>Model 694
+<br>Model 695
+<br>Model 696
+<br>Model 697
+<br>Model 698
+<br>Model 699
+<br>Model 700
+<br>Model 701
+<br>Model 702
+<br>Model 703
+<br>Model 704
+<br>Model 705
+<br>Model 706
+<br>Model 707
+<br>Model 708
+<br>Model 709
+<br>Model 710
+<br>Model 711
+<br>Model 712
+<br>Model 713
+<br>Model 714
+<br>Model 715
+<br>Model 716
+<br>Model 717
+<br>Model 718
+<br>Model 719
+<br>Model 720
+<br>Model 721
+<br>Model 722
+<br>Model 723
+<br>Model 724
+<br>Model 725
+<br>Model 726
+<br>Model 727
+<br>Model 728
+<br>Model 729
+<br>Model 730
+<br>Model 731
+<br>Model 732
+<br>Model 733
+<br>Model 734
+<br>Model 735
+<br>Model 736
+<br>Model 737
+<br>Model 738
+<br>Model 739
+<br>Model 740
+<br>Model 741
+<br>Model 742
+<br>Model 743
+<br>Model 744
+<br>Model 745
+<br>Model 746
+<br>Model 747
+<br>Model 748
+<br>Model 749
+<br>Model 750
+<br>Model 751
+<br>Model 752
+<br>Model 753
+<br>Model 754
+<br>Model 755
+<br>Model 756
+<br>Model 757
+<br>Model 758
+<br>Model 759
+<br>Model 760
+<br>Model 761
+<br>Model 762
+<br>Model 763
+<br>Model 764
+<br>Model 765
+<br>Model 766
+<br>Model 767
+<br>Model 768
+<br>Model 769
+<br>Model 770
+<br>Model 771
+<br>Model 772
+<br>Model 773
+<br>Model 774
+<br>Model 775
+<br>Model 776
+<br>Model 777
+<br>Model 778
+<br>Model 779
+<br>Model 780
+<br>Model 781
+<br>Model 782
+<br>Model 783
+<br>Model 784
+<br>Model 785
+<br>Model 786
+<br>Model 787
+<br>Model 788
+<br>Model 789
+<br>Model 790
+<br>Model 791
+<br>Model 792
+<br>Model 793
+<br>Model 794
+<br>Model 795
+<br>Model 796
+<br>Model 797
+<br>Model 798
+<br>Model 799
+<br>Model 800
+<br>Model 801
+<br>Model 802
+<br>Model 803
+<br>Model 804
+<br>Model 805
+<br>Model 806
+<br>Model 807
+<br>Model 808
+<br>Model 809
+<br>Model 810
+<br>Model 811
+<br>Model 812
+<br>Model 813
+<br>Model 814
+<br>Model 815
+<br>Model 816
+<br>Model 817
+<br>Model 818
+<br>Model 819
+<br>Model 820
+<br>Model 821
+<br>Model 822
+<br>Model 823
+<br>Model 824
+<br>Model 825
+<br>Model 826
+<br>Model 827
+<br>Model 828
+<br>Model 829
+<br>Model 830
+<br>Model 831
+<br>Model 832
+<br>Model 833
+<br>Model 834
+<br>Model 835
+<br>Model 836
+<br>Model 837
+<br>Model 838
+<br>Model 839
+<br>Model 840
+<br>Model 841
+<br>Model 842
+<br>Model 843
+<br>Model 844
+<br>Model 845
+<br>Model 846
+<br>Model 847
+<br>Model 848
+<br>Model 849
+<br>Model 850
+<br>Model 851
+<br>Model 852
+<br>Model 853
+<br>Model 854
+<br>Model 855
+<br>Model 856
+<br>Model 857
+<br>Model 858
+<br>Model 859
+<br>Model 860
+<br>Model 861
+<br>Model 862
+<br>Model 863
+<br>Model 864
+<br>Model 865
+<br>Model 866
+<br>Model 867
+<br>Model 868
+<br>Model 869
+<br>Model 870
+<br>Model 871
+<br>Model 872
+<br>Model 873
+<br>Model 874
+<br>Model 875
+<br>Model 876
+<br>Model 877
+<br>Model 878
+<br>Model 879
+<br>Model 880
+<br>Model 881
+<br>Model 882
+<br>Model 883
+<br>Model 884
+<br>Model 885
+<br>Model 886
+<br>Model 887
+<br>Model 888
+<br>Model 889
+<br>Model 890
+<br>Model 891
+<br>Model 892
+<br>Model 893
+<br>Model 894
+<br>Model 895
+<br>Model 896
+<br>Model 897
+<br>Model 898
+<br>Model 899
+<br>Model 900
+<br>Model 901
+<br>Model 902
+<br>Model 903
+<br>Model 904
+<br>Model 905
+<br>Model 906
+<br>Model 907
+<br>Model 908
+<br>Model 909
+<br>Model 910
+<br>Model 911
+<br>Model 912
+<br>Model 913
+<br>Model 914
+<br>Model 915
+<br>Model 916
+<br>Model 917
+<br>Model 918
+<br>Model 919
+<br>Model 920
+<br>Model 921
+<br>Model 922
+<br>Model 923
+<br>Model 924
+<br>Model 925
+<br>Model 926
+<br>Model 927
+<br>Model 928
+<br>Model 929
+<br>Model 930
+<br>Model 931
+<br>Model 932
+<br>Model 933
+<br>Model 934
+<br>Model 935
+<br>Model 936
+<br>Model 937
+<br>Model 938
+<br>Model 939
+<br>Model 940
+<br>Model 941
+<br>Model 942
+<br>Model 943
+<br>Model 944
+<br>Model 945
+<br>Model 946
+<br>Model 947
+<br>Model 948
+<br>Model 949
+<br>Model 950
+<br>Model 951
+<br>Model 952
+<br>Model 953
+<br>Model 954
+<br>Model 955
+]]></description><link>https://avotien.github.io/obsidian/personal/gamedev/3d/projects/one-model-a-day/one-model-a-day-progression.html</link><guid isPermaLink="false">Obsidian/Personal/Gamedev/3D/Projects/One Model a Day/One Model a Day Progression.md</guid><dc:creator><![CDATA[Avotien]]></dc:creator><pubDate>Mon, 01 Jul 2024 00:06:01 GMT</pubDate></item><item><title><![CDATA[Cat Allergies Research (Reduction of Symptoms)]]></title><description><![CDATA[ 
  <br><br><br><br><br>General:<br>
 <br><a data-tooltip-position="top" aria-label="https://web.archive.org/web/20231213060906/https://www.aaswc.com/cat-allergies.html" rel="noopener" class="external-link" href="https://web.archive.org/web/20231213060906/https://www.aaswc.com/cat-allergies.html" target="_blank">CAT ALLERGIES</a>
 <br><a data-tooltip-position="top" aria-label="https://www.mayoclinic.org/diseases-conditions/pet-allergy/symptoms-causes/syc-20352192" rel="noopener" class="external-link" href="https://www.mayoclinic.org/diseases-conditions/pet-allergy/symptoms-causes/syc-20352192" target="_blank">Pet allergy</a>
@@ -1610,160 +2735,7 @@ cat allergy; cat allergies; cat allergen; Fel d 1; Fel d 4; Fel d 7; "cat allerg
 <br><a data-tooltip-position="top" aria-label="https://i.kym-cdn.com/photos/images/facebook/001/370/706/cb0.436251" rel="noopener" class="external-link" href="https://i.kym-cdn.com/photos/images/facebook/001/370/706/cb0.436251" target="_blank">Conspiracy Iceberg</a>
 <br><a data-tooltip-position="top" aria-label="https://app.diagrams.net/" rel="noopener" class="external-link" href="https://app.diagrams.net/" target="_blank">Diagrams.net</a> - create diagrams such as flowcharts, wireframes, UML diagrams, organizational charts, and network diagrams on your browser.
 <br><a data-tooltip-position="top" aria-label="https://www.tp-link.com/us/support/faq/1544/" rel="noopener" class="external-link" href="https://www.tp-link.com/us/support/faq/1544/" target="_blank">How to use OpenVPN to access your home network through the Wi-Fi Routers</a>
-]]></description><link>https://avotien.github.io/obsidian/personal/•-general-•/websites.html</link><guid isPermaLink="false">Obsidian/Personal/• General •/Websites.md</guid><dc:creator><![CDATA[Avotien]]></dc:creator><pubDate>Sat, 17 Jun 2023 23:20:24 GMT</pubDate></item><item><title><![CDATA[General]]></title><description><![CDATA[ 
- <br>The ultimate guide for making your OWN models of trees, plants, and other natural organic stuff! (mostly trees and plants)<br><br>
-<br><a rel="noopener" class="external-link" href="http://wiki.polycount.com/wiki/Foliage" target="_blank">http://wiki.polycount.com/wiki/Foliage</a><br>
-Contains links to articles and discussions, has some info about how foliage textures and its vertex normals work, links for some tools, and examples.
-<br><a data-tooltip-position="top" aria-label="https://www.youtube.com/watch?v=wavnKZNSYqU" rel="noopener" class="external-link" href="https://www.youtube.com/watch?v=wavnKZNSYqU" target="_blank">The Vegetation of Horizon Zero Dawn</a><br>
-Presentation talking about how the foliage works; the wind simulation, shading, texture packing, normals, etc. Uses SpeedTree for Modeling; 5 LODs. Doesn't really go into much details for the asset creation part.
-<br><br><br>
-<br><a data-tooltip-position="top" aria-label="https://www.inaturalist.org/observations?place_id=any&amp;subview=map&amp;view=species&amp;iconic_taxa=Plantae" rel="noopener" class="external-link" href="https://www.inaturalist.org/observations?place_id=any&amp;subview=map&amp;view=species&amp;iconic_taxa=Plantae" target="_blank">iNaturalist species list</a> has a ton of images of specific vegetation.
-<br><a data-tooltip-position="top" aria-label="https://identify.plantnet.org/k-world-flora/species" rel="noopener" class="external-link" href="https://identify.plantnet.org/k-world-flora/species" target="_blank">Pl@ntNet species list</a> does too.
-<br>Go outside and take pictures of the plants you want to recreate.
-<br><br>
-<br>Go outside and take pictures of the specific parts of the plants you want, ideally with a camera or with your phone on a blank background.
-<br><a data-tooltip-position="top" aria-label="https://www.inaturalist.org/taxa/47602-Taraxacum-officinale/browse_photos" rel="noopener" class="external-link" href="https://www.inaturalist.org/taxa/47602-Taraxacum-officinale/browse_photos" target="_blank">iNaturalist CC0 observations (example)</a> 
-<br>Trunk and Stem photogrammetry
-<br><br>
-<br>Removing the background (for leaves).
-<br>Isolating the bark/stem.
-<br>Conversion to PBR Material.
-<br><br><br><br>
-<br><a data-tooltip-position="top" aria-label="https://www.youtube.com/watch?v=gzXgveyZ-p4" rel="noopener" class="external-link" href="https://www.youtube.com/watch?v=gzXgveyZ-p4" target="_blank">Let's Learn Blender!: Two-Sided Leaf Material</a>
-<br><a data-tooltip-position="top" aria-label="https://www.youtube.com/watch?v=AhFe0hgmHio" rel="noopener" class="external-link" href="https://www.youtube.com/watch?v=AhFe0hgmHio" target="_blank">Making leaves translucent in BLENDER!</a>
-<br><br><br><br>
-<br><a data-tooltip-position="top" aria-label="https://www.youtube.com/watch?v=kz0cPG_x8L8" rel="noopener" class="external-link" href="https://www.youtube.com/watch?v=kz0cPG_x8L8" target="_blank">MSC #09 - How to create realistic looking plants (Blender Tutorial EN)</a> - Excellent, but could be tedious work.
-<br><br><br>
-<br><a data-tooltip-position="top" aria-label="https://www.youtube.com/watch?v=y7PdiGXbrD0" rel="noopener" class="external-link" href="https://www.youtube.com/watch?v=y7PdiGXbrD0" target="_blank">How to Create a Low Poly Tree in 1 Minute</a> - Too simple IMO
-<br><br><br>]]></description><link>https://avotien.github.io/obsidian/personal/gamedev/3d/foliage/ultimate-foliage-modeling-guide-(wip).html</link><guid isPermaLink="false">Obsidian/Personal/Gamedev/3D/Foliage/Ultimate Foliage Modeling Guide (WIP).md</guid><dc:creator><![CDATA[Avotien]]></dc:creator><pubDate>Sun, 02 Jun 2024 02:47:57 GMT</pubDate></item><item><title><![CDATA[Blender Personal Tips & Tricks]]></title><description><![CDATA[ 
- <br><br>Modify tools default settings:<br>
-e.g.<br>
-Edit-&gt;Preferences-&gt;Keymap-&gt;Search for "Shear"-&gt;Go to "Shear" in the Mesh section, then change the defaults.<br><br>
-<br>Extrude edge along the normal orientation of the face its attached to??
-<br>Convert opacity map to a mesh? (Would be useful for realistic foliage)
-<br>Snap individual vertices to object/face all at once?
-<br>Edge-equidistant scaling in one go?
-<br>How to change increment snapping scale? (Change snapping from 100 cm increments to 1 cm)<br>
-Change the Grid Scale in the overlay menu. To get from 100 cm to 1 cm change the scale 0.01.
-<br><br><br>
-<br>Triplanar mapping on the UV texture coordinate setting?
-<br>Mix high poly to low poly baked normal map with a model using a tiling texture?
-<br>Bake high poly edge normals to low poly? (make them appear smooth)
-<br><br>
-<br><a data-tooltip-position="top" aria-label="https://www.youtube.com/watch?v=o-fT5MXs5ds" rel="noopener" class="external-link" href="https://www.youtube.com/watch?v=o-fT5MXs5ds" target="_blank">MatLayer</a> (Currently Broken on 4.2)
-<br><a data-tooltip-position="top" aria-label="https://github.com/leukbaars/DreamUV" rel="noopener" class="external-link" href="https://github.com/leukbaars/DreamUV" target="_blank">DreamUV</a>
-<br><a data-tooltip-position="top" aria-label="https://github.com/mrven/Blender-Texel-Density-Checker" rel="noopener" class="external-link" href="https://github.com/mrven/Blender-Texel-Density-Checker" target="_blank">Texel Density Checker</a>
-<br>
-]]></description><link>https://avotien.github.io/obsidian/personal/gamedev/3d/blender-personal-tips-&amp;-tricks.html</link><guid isPermaLink="false">Obsidian/Personal/Gamedev/3D/Blender Personal Tips &amp; Tricks.md</guid><dc:creator><![CDATA[Avotien]]></dc:creator><pubDate>Tue, 25 Jun 2024 23:44:38 GMT</pubDate></item><item><title><![CDATA[Good Free Assets Websites]]></title><description><![CDATA[ 
- <br><br>
-<br><a rel="noopener" class="external-link" href="https://ambientcg.com/" target="_blank">https://ambientcg.com/</a>
-<br><a rel="noopener" class="external-link" href="https://polyhaven.com/" target="_blank">https://polyhaven.com/</a>
-<br><a rel="noopener" class="external-link" href="https://www.cgbookcase.com/" target="_blank">https://www.cgbookcase.com/</a>
-<br><a rel="noopener" class="external-link" href="https://pbrpx.com/" target="_blank">https://pbrpx.com/</a>
-]]></description><link>https://avotien.github.io/obsidian/personal/gamedev/3d/good-free-assets-websites.html</link><guid isPermaLink="false">Obsidian/Personal/Gamedev/3D/Good Free Assets Websites.md</guid><dc:creator><![CDATA[Avotien]]></dc:creator><pubDate>Sun, 26 May 2024 13:52:20 GMT</pubDate></item><item><title><![CDATA[TreeIt Review]]></title><description><![CDATA[ 
- <br>
-<br>You can't split a trunk more than once? When almost every tree in the real life can.<br>
-The way the trunk just ends and doesn't allow for branches at the exact tip of the trunk doesn't look nice.
-<br>Random crashes once in a while
-]]></description><link>https://avotien.github.io/obsidian/personal/gamedev/3d/treeit-review.html</link><guid isPermaLink="false">Obsidian/Personal/Gamedev/3D/TreeIt Review.md</guid><dc:creator><![CDATA[Avotien]]></dc:creator><pubDate>Fri, 24 May 2024 22:57:45 GMT</pubDate></item><item><title><![CDATA[MOHAA to Source Engine porting.]]></title><description><![CDATA[ 
- <br>I used multiple programs for this, here's a mostly simple explanation of what I did. <br>
-<br>For porting the simple world geometry, I used QuArk to open the .map file and then made it useable in hammer. I also manually ported the textures used in the map to a format useable by the source engine. Textures had to be replaced manually. 
-<br>For the more complex geometry (pipes, ladders, barrels, terrain) I used a tool found here: <a data-tooltip-position="top" aria-label="https://www.youtube.com/redirect?event=comments&amp;redir_token=QUFFLUhqbUlWeEU4ZUNvRkRZMDF2eUxZYkhUUnladS1UZ3xBQ3Jtc0tsTzJXdjFiQ3FxcVo3RjhaOEtSWFlRWV9rX001cl9VRG0xQThZVlRzbktIZzRuemthU05uOTBpMXkwekVweWRXcXM5YlBDLU93QnhfTUxqbWE5dWJsd3JZbHNJdlgtYlJ2MFlrcXdNVlg5blhfZUlmOA&amp;q=https%3A%2F%2Fwww.x-null.net%2Fforums%2Fthreads%2F3542-3d-model-of-Stalingrad-map%2Fpage2&amp;stzid=UgwPzdI6U4r8aM28hsJ4AaABAg.9JONhJeN2M79JOUG8qdFY8" rel="noopener" class="external-link" href="https://www.youtube.com/redirect?event=comments&amp;redir_token=QUFFLUhqbUlWeEU4ZUNvRkRZMDF2eUxZYkhUUnladS1UZ3xBQ3Jtc0tsTzJXdjFiQ3FxcVo3RjhaOEtSWFlRWV9rX001cl9VRG0xQThZVlRzbktIZzRuemthU05uOTBpMXkwekVweWRXcXM5YlBDLU93QnhfTUxqbWE5dWJsd3JZbHNJdlgtYlJ2MFlrcXdNVlg5blhfZUlmOA&amp;q=https%3A%2F%2Fwww.x-null.net%2Fforums%2Fthreads%2F3542-3d-model-of-Stalingrad-map%2Fpage2&amp;stzid=UgwPzdI6U4r8aM28hsJ4AaABAg.9JONhJeN2M79JOUG8qdFY8" target="_blank">https://www.x-null.net/forums/threads/3542-3d-model-of-Stalingrad-map/page2</a> to extract it as fbx from the original bsp map file, I then imported it into Blender and I used the SourceOps plugin to export all complex geometry as models to be useable by the source engine, except the terrain, for that I used the displacement exporter included with SourceOps. 
-<br>For the models (trees, cars, etc.) I used LightRay3D to export the MOHAA models from the original .skd format to .obj and exported them as useable models with Blender and SourceOps. 
-<br>I imported a reference for where all the models should be placed, but they were all manually placed by hands. Lighting also had to be done by hand. 
-<br>I also had to scale down the original map by 0.78 since the player scales between games are different.
-]]></description><link>https://avotien.github.io/obsidian/personal/gamedev/valve-engines/source/mohaa-to-source-engine-porting..html</link><guid isPermaLink="false">Obsidian/Personal/Gamedev/Valve Engines/Source/MOHAA to Source Engine porting..md</guid><dc:creator><![CDATA[Avotien]]></dc:creator><pubDate>Wed, 29 Nov 2023 20:43:38 GMT</pubDate></item><item><title><![CDATA[Porting Source 1 map to Source 2 (For CSGO to CS2)]]></title><description><![CDATA[ 
- <br><br>
-<br>Set-up folders (csgo filepath w/ precompiled content &amp; gameinfo file; path to the source files (.vmf &amp; assets)(folder path cannot contain spaces); CS2 gameinfo file)
-<br>Install Python
-<br>Set-up PATH environment variable
-<br>Install colorama (pip install colorama)
-<br>Create new addon with the desired name with the workshop tools
-<br>Locate import script
-<br>Modify import script
-<br>Run import script GUI
-<br><br><br>The script will give out 3 different .vmap (map.vmap; map_prefab.vmap; map_environment_prefab.vmap (This last one will only be there if you use -usebsp))<br>
-You can combine them all by collapsing the prefabs.<br>
-Replace any surface specific clip textures with the simple clip material<br>
-If you have any custom sprites they have to be manually imported; create a .vtex file in the content folder:<br>&lt;!-- dmx encoding keyvalues2_noids 1 format vtex 1 --&gt;
-"CDmeVtex"
-{
-	"m_inputTextureArray" "element_array" 
-	[
-		"CDmeInputTexture"
-		{
-			"m_name" "string" "InputTexture0"
-			"m_fileName" "string" "materials/EXAMPLE_SPRITE.tga"
-			"m_colorSpace" "string" "srgb"
-			"m_typeString" "string" "2D"
-			"m_imageProcessorArray" "element_array" 
-			[
-				"CDmeImageProcessor"
-				{
-					"m_algorithm" "string" "None"
-					"m_stringArg" "string" ""
-					"m_vFloat4Arg" "vector4" "0 0 0 0"
-				}
-			]
-		}
-	]
-	"m_outputTypeString" "string" "2D"
-	"m_outputFormat" "string" "DXT1"
-	"m_outputClearColor" "vector4" "0 0 0 0"
-	"m_nOutputMinDimension" "int" "0"
-	"m_nOutputMaxDimension" "int" "0"
-	"m_textureOutputChannelArray" "element_array" 
-	[
-		"CDmeTextureOutputChannel"
-		{
-			"m_inputTextureArray" "string_array" [ "InputTexture0" ]
-			"m_srcChannels" "string" "rgba"
-			"m_dstChannels" "string" "rgba"
-			"m_mipAlgorithm" "CDmeImageProcessor"
-			{
-				"m_algorithm" "string" "Box"
-				"m_stringArg" "string" ""
-				"m_vFloat4Arg" "vector4" "0 0 0 0"
-			}
-			"m_outputColorSpace" "string" "srgb"
-		}
-	]
-	"m_vClamp" "vector3" "0 0 0"
-	"m_bNoLod" "bool" "0"
-}
-Copy<br><br><br>Check if you have any light_omni2 with crazy high brightness &amp; range values and manually fix them. You can use indirect light scale to make a light similar to constant light in source.<br>
-The S2 importer will approximate the light probes &amp; cube maps combined entities; you're better off remaking them manually; or if you don't add them, then the lighting will look very bad on non-lightmapped objects. Be sure to make light probe entities touch each other, and to increase resolution size if some lighting looks bad. (If you want bad/retro-looking lighting, uncheck stationary light shadows on the light_environment<br><br><br>Just go to Navigation -&gt;place a Create Walkable Seed anywhere in the playing area -&gt;Nav Preview<br>
-You can tweak the navigation mesh by placing nav-clip brushes<br><br><br>Sounds will not be ported with the script. You will need to import them to a folder of your choosing, then edit the soundevents_addon.vsndevts file by adding the sound file with the desired settings. Add a point_soundevent with the desired soundscape sound and check play to local player and start on spawn. Or just modify the soundscape, and replace all proxys to be normal soundscapes.<br><br><br>Add a cs_minimap_boundary at the lowest-south-west corner of the map and the highest-north-east corner of it. You can add multiple to generate multiple layers. You can change the resolution of the generated minimap with cs_minimap_output_size "square-resolution"<br>
-Create a new material using the material editor with the same name as the radar file, as a composite generic, then add the generated image(s) to the material.<br>
-Then edit the map .vtex file name:<br>
-mapname_radar to mapname_radar_tga<br>
-copy the same file and rename it to mapname_radar_spectate_tga<br>If you have a multi layered minimap, you need to edit the mapname.txt in the game addons/resource/overview folder<br>"mapname"
-{
-	"autogenerated_tga"		"1"
-	"pos_x"		"-1504"
-	"pos_y"		"3560"
-	"scale"		"4.343750"
-	
-	"verticalsections"
-	{
-		"default" // use the primary radar image - highest point
-		{
-			"AltitudeMax" "10000"
-			"AltitudeMin" "-80"
-		}
-		"1" // mapname_1_radar - middlest point
-		{
-			"AltitudeMax" "-80"
-			"AltitudeMin" "-416"
-		}
-		"0" // mapname_0_radar - lowest point
-		{
-			"AltitudeMax" "-416"
-			"AltitudeMin" "-10000"
-		}
-	}
-}
-Copy<br><br><br>Don't forget to add team_select and related!<br><br>Normally you should compile with full compile, but with our mohaa map you reduce the lightmap resolution to the minimum (512)]]></description><link>https://avotien.github.io/obsidian/personal/gamedev/valve-engines/source/porting-source-1-map-to-source-2-(for-csgo-to-cs2).html</link><guid isPermaLink="false">Obsidian/Personal/Gamedev/Valve Engines/Source/Porting Source 1 map to Source 2 (For CSGO to CS2).md</guid><dc:creator><![CDATA[Avotien]]></dc:creator><pubDate>Thu, 30 May 2024 01:28:59 GMT</pubDate></item><item><title><![CDATA[2023-06-17]]></title><description><![CDATA[ 
+]]></description><link>https://avotien.github.io/obsidian/personal/•-general-•/websites.html</link><guid isPermaLink="false">Obsidian/Personal/• General •/Websites.md</guid><dc:creator><![CDATA[Avotien]]></dc:creator><pubDate>Sat, 17 Jun 2023 23:20:24 GMT</pubDate></item><item><title><![CDATA[2023-06-17]]></title><description><![CDATA[ 
  <br>J'essaie de figure obsidian out, on verra ben jvais en venir jusqua ou. La faut que je trouve comment link un site mais que ça se montre pas en tant que site, faut juste que ça soit un petit titre qui t'envoie vers le site.<br>Je sais pas si je devrais écrire ce genre de journal en français ou en anglais... I think I'm gonna go with English, since most of the stuff I do on the PC is in that language!]]></description><link>https://avotien.github.io/obsidian/personal/journal/2023-06-17.html</link><guid isPermaLink="false">Obsidian/Personal/Journal/2023-06-17.md</guid><dc:creator><![CDATA[Avotien]]></dc:creator><pubDate>Sat, 17 Jun 2023 23:21:52 GMT</pubDate></item><item><title><![CDATA[BitTorrent Client Whitelist]]></title><description><![CDATA[ 
  <br><br>The following BitTorrent Clients are on the RED whitelist:<br><br>This list is not updated as often as the official one and is most likely outdated. If you have a newer version (eg. uTorrent), don't assume it's not allowed.<br><br>
 <br>aTorrent 3.0.x
