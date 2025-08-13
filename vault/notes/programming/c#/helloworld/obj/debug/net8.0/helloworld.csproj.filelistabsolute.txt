@@ -1,0 +1,14 @@
+Z:\Projects\Github_Repo\learning\c#\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+Z:\Projects\Github_Repo\learning\c#\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+Z:\Projects\Github_Repo\learning\c#\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+Z:\Projects\Github_Repo\learning\c#\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+Z:\Projects\Github_Repo\learning\c#\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+Z:\Projects\Github_Repo\learning\c#\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Projects\Github_Repo\learning\c#\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+Z:\Projects\Github_Repo\learning\c#\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+Z:\Projects\Github_Repo\learning\c#\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+Z:\Projects\Github_Repo\learning\c#\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+Z:\Projects\Github_Repo\learning\c#\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+Z:\Projects\Github_Repo\learning\c#\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+Z:\Projects\Github_Repo\learning\c#\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+Z:\Projects\Github_Repo\learning\c#\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll
