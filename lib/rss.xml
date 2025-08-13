@@ -1,4 +1,59 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Obsidian]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://avotien.github.io/</link><image><url>https://avotien.github.io/lib/media/favicon.png</url><title>Obsidian</title><link>https://avotien.github.io/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 01 Dec 2024 15:06:50 GMT</lastBuildDate><atom:link href="https://avotien.github.io/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 01 Dec 2024 15:06:49 GMT</pubDate><copyright><![CDATA[Avotien]]></copyright><ttl>60</ttl><dc:creator>Avotien</dc:creator><item><title><![CDATA[Cat Allergies Research (Reduction of Symptoms)]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Obsidian]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://avotien.github.io/</link><image><url>.\https:\\avotien.github.io\lib\media\favicon.png</url><title>Obsidian</title><link>https://avotien.github.io/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Wed, 13 Aug 2025 05:54:50 GMT</lastBuildDate><atom:link href=".\https:\\avotien.github.io\lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Wed, 13 Aug 2025 05:54:49 GMT</pubDate><copyright><![CDATA[Avotien]]></copyright><ttl>60</ttl><dc:creator>Avotien</dc:creator><item><title><![CDATA[Server Stuff]]></title><description><![CDATA[ 
+ <br><br>from the main user folder, open a cmd.<br>
+and use this command:<br>
+ssh elitebook@192.168.0.198 -p 36676 -i yek_hss<br>explanations:<br>
+"ssh" is the software and command used to remote access the server<br>
+"elitebook" is the username of the server<br>
+"@192.169.0.198" is the ethernet (local) IP of the server. (You can change it in the DHCP settings)<br>
+"-p" is an additional option that is able to specify the port used on and to connect to the server.<br>
+"-i" is the public key identification, which is a file located on the users PC.<br>
+(e.g. in C:\Users\Username in this case)<br><br>command:<br>
+docker restart $(docker ps -a -q) <br>auto-restart the containers unless stopped:<br>
+docker update --restart unless-stopped $(docker ps -q)<br>view all docker containers:<br>
+docker ps -a<br>start docker container:<br>
+docker start [container id]<br>enter docker container:<br>
+docker exec -it [container id] bash<br><br>
+<br>Stop &amp; remove the current samba container if it exists 
+<br>docker stop user-samba
+docker rm user-samba
+<br>
+<br>Create a Dockerfile file; and include this in it:
+<br># Use the official Debian base image
+FROM debian
+
+# Install Samba and its dependencies
+RUN apt-get update &amp;&amp; \
+    apt-get install -y samba samba-common samba-libs
+
+# Expose Samba ports
+EXPOSE 445
+
+# Start Samba service when the container starts
+CMD ["smbd", "--foreground", "--no-process-group"]
+<br>
+<br>Open a terminal and navigate to the directory containing the Dockerfile.
+<br>Run the docker build command to build the Docker image:
+<br>e.g. docker build -t my-samba-image . Replace my-samba-image with the desired name for your Docker image.
+<br>Once the image is built, you can run a container from the image using the docker run command: `docker run -it -p 445:445 --name elitebook-samba -v /home/elitebook/cloud/public:/hmnt/public -d my-samba-image
+<br><br>`]]></description><link>.\https:\\avotien.github.io\vault\notes\computer\server-stuff.html</link><guid isPermaLink="false">Vault/Notes/Computer/Server Stuff.md</guid><dc:creator><![CDATA[Avotien]]></dc:creator><pubDate>Mon, 31 Mar 2025 18:14:39 GMT</pubDate></item><item><title><![CDATA[Dream Journal]]></title><description><![CDATA[ 
+ <br>
+<br>movie where kid get transported to other universe, kid forget dad is the villain. laurence fishburne has a speech about something about human emotions make you human and dad is making husks or something? i swear it was more in depth. theres pipes or portals, name is splitsville. early 2000 movie. thought this was an existing movie
+]]></description><link>.\https:\\avotien.github.io\vault\notes\journal\dream-journal.html</link><guid isPermaLink="false">Vault/Notes/Journal/Dream Journal.md</guid><dc:creator><![CDATA[Avotien]]></dc:creator><pubDate>Sat, 28 Dec 2024 17:24:55 GMT</pubDate></item><item><title><![CDATA[Mentions and articles of the genre]]></title><description><![CDATA[ 
+ <br><br><br>
+<br><a data-tooltip-position="top" aria-label="https://archive.org/details/Jefferson-Public-Radio-Jefferson-Journal/1999-08_Jefferson-Monthly/page/30/mode/2up?q=%22Folktronica%22" rel="noopener nofollow" class="external-link" href="https://archive.org/details/Jefferson-Public-Radio-Jefferson-Journal/1999-08_Jefferson-Monthly/page/30/mode/2up?q=%22Folktronica%22" target="_blank">Snakefarm is not something easily categorized. Terms like acid-blues or folktronica come to mind.</a> - 1999-08
+<br><a data-tooltip-position="top" aria-label="https://archive.org/details/CLARION_CALL_1998-1999_v81-82/page/n226/mode/1up?q=%22Folktronica%22" rel="noopener nofollow" class="external-link" href="https://archive.org/details/CLARION_CALL_1998-1999_v81-82/page/n226/mode/1up?q=%22Folktronica%22" target="_blank">Beth Orton; "Stolen Car"</a> - 1999-03
+<br><a data-tooltip-position="top" aria-label="https://archive.org/details/cd_columbia_various-artists/page/n7/mode/1up" rel="noopener nofollow" class="external-link" href="https://archive.org/details/cd_columbia_various-artists/page/n7/mode/1up" target="_blank">PJ Olsson - Words For Living</a> - 1999
+<br><br>
+<br><a data-tooltip-position="top" aria-label="https://archive.org/details/guidedisquesvoir0000saul/mode/2up?q=%22Folktronica%22" rel="noopener nofollow" class="external-link" href="https://archive.org/details/guidedisquesvoir0000saul/mode/2up?q=%22Folktronica%22" target="_blank">Beth Orton pre-Central Reservation</a> - 2000
+<br><a data-tooltip-position="top" aria-label="https://archive.org/details/sim_boston-phoenix_november-2-8-2001_30_44/mode/2up?q=%22Folktronica%22" rel="noopener nofollow" class="external-link" href="https://archive.org/details/sim_boston-phoenix_november-2-8-2001_30_44/mode/2up?q=%22Folktronica%22" target="_blank">Simian - Chemistry Is What We Are; Like fellow “folktronica” disciples the Beta Band, Simian mix synthesized swaths of sound and otherworldly samples with drone-like harmonies and burbling beats, creating unorthodox rhythms and textures.</a> - 2001-11
+<br><a data-tooltip-position="top" aria-label="https://archive.org/details/thevarsity122/page/n603/mode/2up?q=%22Folktronica%22" rel="noopener nofollow" class="external-link" href="https://archive.org/details/thevarsity122/page/n603/mode/2up?q=%22Folktronica%22" target="_blank">Maddona; "Don"t Tell Me,"" which signalled her creation of " folktronica,"</a> - 2002-02-04
+<br><a data-tooltip-position="top" aria-label="https://www.newspapers.com/newspage/727733073/?terms=%22Folktronica%22" rel="noopener nofollow" class="external-link" href="https://www.newspapers.com/newspage/727733073/?terms=%22Folktronica%22" target="_blank">Four Tet, Manitoba</a> - 2002-03-06
+<br><a data-tooltip-position="top" aria-label="https://archive.org/details/bub_gb_Iw8EAAAAMBAJ/mode/2up?q=%22Folktronica%22" rel="noopener nofollow" class="external-link" href="https://archive.org/details/bub_gb_Iw8EAAAAMBAJ/mode/2up?q=%22Folktronica%22" target="_blank">GOMEZ - In Our Gun - Occasionally, the band pulls it off, as on the bouncing folktronica of "Detroit Swing 66."</a> - 2002-05-11
+<br><a data-tooltip-position="top" aria-label="https://www.newspapers.com/newspage/727708079/?match=1&amp;terms=%22Folktronica%22" rel="noopener nofollow" class="external-link" href="https://www.newspapers.com/newspage/727708079/?match=1&amp;terms=%22Folktronica%22" target="_blank">MUM, FOUR TET</a> - 2002-05-23
+<br><a data-tooltip-position="top" aria-label="https://www.newspapers.com/newspage/727865908/?match=1&amp;terms=%22Folktronica%22" rel="noopener nofollow" class="external-link" href="https://www.newspapers.com/newspage/727865908/?match=1&amp;terms=%22Folktronica%22" target="_blank">"folktronica act Mum"</a> - 2002-07-11
+<br><a data-tooltip-position="top" aria-label="https://www.newspapers.com/newspage/725777170/?match=3&amp;terms=Folktronica" rel="noopener nofollow" class="external-link" href="https://www.newspapers.com/newspage/725777170/?match=3&amp;terms=Folktronica" target="_blank">Four Tet, Manitoba, Rustin' Man - Out of Season, Kings of Convenience.</a> - 2004-04-23<br>
+Folktronica: "Four Tet, has been credited with the invention of "Folktronica" It's a clunky name for a new style of music that samples snippets of old, acoustic instruments and feeds them through a computer to create instrumental songs that are simultaneously cutting-edge and warm and familiar." ""A lot of people have picked up on my use of a computer with traditional instruments, thinking it's some sort of comment on old folk music, but that's not it at all," he says. "The sort of sounds I'm using have been inspired much more by American hip hop and R&amp;B. Producers like Timbaland and Rodney Jerkins use instruments such as harps and thumb pianos on very commercial records, and that's what prompted me to be more adventurous and look for the weirder, older, quirkier noises."  'I can use a guitar sound, but mess around with it in such a way that it would be impossible for a human to play it'"
+]]></description><link>.\https:\\avotien.github.io\vault\notes\music\folktronica.html</link><guid isPermaLink="false">Vault/Notes/Music/Folktronica.md</guid><dc:creator><![CDATA[Avotien]]></dc:creator><pubDate>Mon, 23 Jun 2025 04:06:56 GMT</pubDate></item><item><title><![CDATA[Cat Allergies Research (Reduction of Symptoms)]]></title><description><![CDATA[ 
  <br><br><br><br><br>General:<br>
 <br><a data-tooltip-position="top" aria-label="https://web.archive.org/web/20231213060906/https://www.aaswc.com/cat-allergies.html" rel="noopener nofollow" class="external-link" href="https://web.archive.org/web/20231213060906/https://www.aaswc.com/cat-allergies.html" target="_blank">CAT ALLERGIES</a>
 <br><a data-tooltip-position="top" aria-label="https://www.mayoclinic.org/diseases-conditions/pet-allergy/symptoms-causes/syc-20352192" rel="noopener nofollow" class="external-link" href="https://www.mayoclinic.org/diseases-conditions/pet-allergy/symptoms-causes/syc-20352192" target="_blank">Pet allergy</a>
@@ -1839,41 +1894,7 @@ Eclipse Records | Ed Hardy<br><br>
 <br><a data-tooltip-position="top" aria-label="https://i.kym-cdn.com/photos/images/facebook/001/370/706/cb0.436251" rel="noopener" class="external-link" href="https://i.kym-cdn.com/photos/images/facebook/001/370/706/cb0.436251" target="_blank">Conspiracy Iceberg</a>
 <br><a data-tooltip-position="top" aria-label="https://app.diagrams.net/" rel="noopener" class="external-link" href="https://app.diagrams.net/" target="_blank">Diagrams.net</a> - create diagrams such as flowcharts, wireframes, UML diagrams, organizational charts, and network diagrams on your browser.
 <br><a data-tooltip-position="top" aria-label="https://www.tp-link.com/us/support/faq/1544/" rel="noopener" class="external-link" href="https://www.tp-link.com/us/support/faq/1544/" target="_blank">How to use OpenVPN to access your home network through the Wi-Fi Routers</a>
-]]></description><link>https://avotien.github.io/vault/notes/•-general-•/websites.html</link><guid isPermaLink="false">Vault/Notes/• General •/Websites.md</guid><dc:creator><![CDATA[Avotien]]></dc:creator><pubDate>Wed, 31 Jul 2024 01:46:59 GMT</pubDate></item><item><title><![CDATA[Server Stuff]]></title><description><![CDATA[ 
- <br><br>from the main user folder, open a cmd.<br>
-and use this command:<br>
-ssh elitebook@192.168.0.198 -p 36676 -i yek_hss<br>explanations:<br>
-"ssh" is the software and command used to remote access the server<br>
-"elitebook" is the username of the server<br>
-"@192.169.0.198" is the ethernet (local) IP of the server. (You can change it in the DHCP settings)<br>
-"-p" is an additional option that is able to specify the port used on and to connect to the server.<br>
-"-i" is the public key identification, which is a file located on the users PC.<br>
-(e.g. in C:\Users\Username in this case)<br><br>command:<br>
-docker restart $(docker ps -a -q) <br>auto-restart the containers unless stopped:<br>
-docker update --restart unless-stopped $(docker ps -q)<br><br>
-<br>Stop &amp; remove the current samba container if it exists 
-<br>docker stop user-samba
-docker rm user-samba
-Copy<br>
-<br>Create a Dockerfile file; and include this in it:
-<br># Use the official Debian base image
-FROM debian
-
-# Install Samba and its dependencies
-RUN apt-get update &amp;&amp; \
-    apt-get install -y samba samba-common samba-libs
-
-# Expose Samba ports
-EXPOSE 445
-
-# Start Samba service when the container starts
-CMD ["smbd", "--foreground", "--no-process-group"]
-Copy<br>
-<br>Open a terminal and navigate to the directory containing the Dockerfile.
-<br>Run the docker build command to build the Docker image:
-<br>e.g. docker build -t my-samba-image . Replace my-samba-image with the desired name for your Docker image.
-<br>Once the image is built, you can run a container from the image using the docker run command: docker run -it -p 445:445 --name elitebook-samba -v /home/elitebook/cloud/public:/hmnt/public -d my-samba-image 
-]]></description><link>https://avotien.github.io/vault/notes/computer/server-stuff.html</link><guid isPermaLink="false">Vault/Notes/Computer/Server Stuff.md</guid><dc:creator><![CDATA[Avotien]]></dc:creator><pubDate>Thu, 11 Jul 2024 14:48:20 GMT</pubDate></item><item><title><![CDATA[Blender Personal Tips & Tricks]]></title><description><![CDATA[ 
+]]></description><link>https://avotien.github.io/vault/notes/•-general-•/websites.html</link><guid isPermaLink="false">Vault/Notes/• General •/Websites.md</guid><dc:creator><![CDATA[Avotien]]></dc:creator><pubDate>Wed, 31 Jul 2024 01:46:59 GMT</pubDate></item><item><title><![CDATA[Blender Personal Tips & Tricks]]></title><description><![CDATA[ 
  <br><br>Modify tools default settings:<br>
 e.g.<br>
 Edit-&gt;Preferences-&gt;Keymap-&gt;Search for "Shear"-&gt;Go to "Shear" in the Mesh section, then change the defaults.<br><br>
