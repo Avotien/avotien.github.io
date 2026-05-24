@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Y:\\Library\\Documents\\GitHub\\avotien.github.io\\vault\\notes\\programming\\c\u002B\u002B\\hello_world\\hello_world\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD75E984-740D-4DBD-9D62-1926DBAF0845}|hello_world.vcxproj|Y:\\Library\\Documents\\GitHub\\avotien.github.io\\vault\\notes\\programming\\c\u002B\u002B\\hello_world\\hello_world\\print_standard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD75E984-740D-4DBD-9D62-1926DBAF0845}|hello_world.vcxproj|solutionrelative:print_standard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD75E984-740D-4DBD-9D62-1926DBAF0845}|hello_world.vcxproj|Y:\\Library\\Documents\\GitHub\\avotien.github.io\\vault\\notes\\programming\\c\u002B\u002B\\hello_world\\hello_world\\hello_world.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD75E984-740D-4DBD-9D62-1926DBAF0845}|hello_world.vcxproj|solutionrelative:hello_world.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "print_standard.cpp",
+              "DocumentMoniker": "Y:\\Library\\Documents\\GitHub\\avotien.github.io\\vault\\notes\\programming\\c\u002B\u002B\\hello_world\\hello_world\\print_standard.cpp",
+              "RelativeDocumentMoniker": "print_standard.cpp",
+              "ToolTip": "Y:\\Library\\Documents\\GitHub\\avotien.github.io\\vault\\notes\\programming\\c\u002B\u002B\\hello_world\\hello_world\\print_standard.cpp",
+              "RelativeToolTip": "print_standard.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-20T20:11:18.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "hello_world.cpp",
+              "DocumentMoniker": "Y:\\Library\\Documents\\GitHub\\avotien.github.io\\vault\\notes\\programming\\c\u002B\u002B\\hello_world\\hello_world\\hello_world.cpp",
+              "RelativeDocumentMoniker": "hello_world.cpp",
+              "ToolTip": "Y:\\Library\\Documents\\GitHub\\avotien.github.io\\vault\\notes\\programming\\c\u002B\u002B\\hello_world\\hello_world\\hello_world.cpp",
+              "RelativeToolTip": "hello_world.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-20T19:42:50.639Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
