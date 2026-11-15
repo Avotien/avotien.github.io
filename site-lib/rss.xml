@@ -1,4 +1,45 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[avotien.github.io]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>avotien.github.io</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 15 May 2026 23:33:19 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 15 May 2026 23:33:00 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Blender Personal Tips & Tricks]]></title><description><![CDATA[v## ModelingModify tools default settings:
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[avotien.github.io]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>avotien.github.io</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 10 Nov 2026 02:55:07 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 10 Nov 2026 02:55:05 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Path of Exile 2]]></title><description><![CDATA[
+Can you use the Proximal Tangibility modifier to be immune to Arbiter of Ash's mechanics? (Ritual Sacrifice on Ritualist)
+Max possible Block Chance?
+Max possible % Damage prevented from Deflection?
+How high can you make the magnitude of Enfeeble?
+Runic Ward has high interaction potential with Augment Items;
+Best possible class and ascendancy?
+Shaman for extra bonded modifiers (Gain 2% of Maximum Life as Maximum Runic Ward)
+Martial Artist for extra rune slots
+Shaman is possibly good for a Flat Life stacking build, while still optimizing for high runic ward base items
+Martial Artist on the other case would be a good Chaos Inoculation candidate.
+Shaman:
+Equipment:
+Runeforged Blacksteel Gauntlets (141 Base RW)
+Runeforged Cryptic Leggings (201 Base RW)Runeforged Gladiatorial Helm OR
+Runeforged Cryptic Crown OR
+Runeforged Grinning Mask
+(All 254 Base RW)Runefather's Grasping Mail (550 Base RW) OR
+Runeforged Wolfskin Mantle (417 Base RW) OR
+Runeforged Champion Cuirass (0 Base RW + 1000 RW)Grasping Ring 2x
+Corona AmuletDarkness Enthroned (100% Increased Effect as Body Armour)Runemastered Svalinn Variant (250 Base RW + 100 RW) +
+Runemastered Runeseeker's Call Variant (+300 RW)
+OR
+Runemastered Svalinn Variant (250 Base RW + 100 RW) +
+Crown Mace with Highest Max Damage]]></description><link>vault/notes/journal/path-of-exile-2.html</link><guid isPermaLink="false">Vault/Notes/Journal/Path of Exile 2.md</guid><pubDate>Fri, 14 Aug 2026 05:41:14 GMT</pubDate></item><item><title><![CDATA[learncpp.com]]></title><description><![CDATA[ What is a statement?
+A step in the code, usually a line which executes a specific command. ✓
+A statement is an instruction in a computer program that tells the computer to perform an action. What is a function?
+A collection of statements inside specific lines that executes sequentially, and where the statements are usually inside curly brackets. ~ ✓ What is the name of the function that all programs must have?
+All C++ programs must have a function called main ✓ What happens when the program is run?
+All statements inside the main function are executed sequentially ✓ What symbols are statements in C++ often ended with?
+A semi-colon (;) ✓ What is a syntax error?
+Typing mistakes such as missing semi-colons, brackets, parentheses that confuses the compiler. ~
+A syntax error occurs when your program violates the grammar rules of the C++ language. What is the C++ Standard Library
+The commands that are included in C++ by "default", stuff like cout, etc. ~
+A library file is a collection of precompiled code that has been “packaged up” for reuse in other programs. The C++ Standard Library is a library that ships with C++. It contains additional functionality to use in your programs. ]]></description><link>vault/notes/programming/c++/learncpp.com.html</link><guid isPermaLink="false">Vault/Notes/Programming/c++/learncpp.com.md</guid><pubDate>Fri, 29 May 2026 03:07:38 GMT</pubDate></item><item><title><![CDATA[To-do list ／ Projects]]></title><description><![CDATA[
+Ile Cadieux on Arma Reforger - WOW THIS IS DONE!!!
+MOHAA to CSGO to CS2 port
+Residence Map - garrysmod specific map abandoned
+School Map - abandoned until I get better data Sell 3D Models on Sketchfab
+Ile Perrot on ARMA 4
+High Fantasy Wizard Half-Life Goldsrc Mod
+]]></description><link>vault/notes/journal/to-do-list-／-projects.html</link><guid isPermaLink="false">Vault/Notes/Journal/To-do list ／ Projects.md</guid><pubDate>Fri, 15 May 2026 23:55:10 GMT</pubDate></item><item><title><![CDATA[Blender Personal Tips & Tricks]]></title><description><![CDATA[v## ModelingModify tools default settings:
 e.g.
 Edit-&gt;Preferences-&gt;Keymap-&gt;Search for "Shear"-&gt;Go to "Shear" in the Mesh section, then change the defaults.
 Extrude edge along the normal orientation of the face its attached to??
@@ -796,16 +837,7 @@ Sister Ray Velvet Underground
 Merle Haggard Jackie-O Motherfucker
 Tara Burke
 Glenn Donaldson
-]]></description><link>vault/notes/music/new-weird-finland.html</link><guid isPermaLink="false">Vault/Notes/Music/New Weird Finland.md</guid><pubDate>Mon, 12 Aug 2024 01:36:50 GMT</pubDate></item><item><title><![CDATA[To-do list ／ Projects]]></title><description><![CDATA[
-Ile Cadieux on Arma Reforger - WOW THIS IS DONE!!!
-MOHAA to CSGO to CS2 port
-Residence Map - garrysmod specific map abandoned
-School Map - abandoned until I get better data Sell 3D Models on Sketchfab
-Ile Perrot on ARMA 4
-High Fantasy Wizard Half-Life Goldsrc Mod
-Isometric-style camera in Minecraft mod.
-Music genre identification Python with RYM genres. Manhattan/Skyscraper City in 3D game environment
-]]></description><link>vault/notes/journal/to-do-list-／-projects.html</link><guid isPermaLink="false">Vault/Notes/Journal/To-do list ／ Projects.md</guid><pubDate>Sat, 03 Aug 2024 19:16:16 GMT</pubDate></item><item><title><![CDATA[One Model a Day Progression]]></title><description><![CDATA[Last 3D model I made/uploaded was in 2021-11-20. Tomorrow is going to be July 1st 2024.
+]]></description><link>vault/notes/music/new-weird-finland.html</link><guid isPermaLink="false">Vault/Notes/Music/New Weird Finland.md</guid><pubDate>Mon, 12 Aug 2024 01:36:50 GMT</pubDate></item><item><title><![CDATA[One Model a Day Progression]]></title><description><![CDATA[Last 3D model I made/uploaded was in 2021-11-20. Tomorrow is going to be July 1st 2024.
 955 days. 955 models to make. Goal is for all object to be fully modeled, textured, and detailed baked. I'll also allow myself photogrammetry. Deadline: 10+1 new model, every day
 Gotta catch up. :(
 Model 1
